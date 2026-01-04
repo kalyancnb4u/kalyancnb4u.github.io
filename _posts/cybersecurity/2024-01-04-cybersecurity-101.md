@@ -6,7 +6,7 @@ author: technical_notes
 date: 2024-01-04 00:00:00 +0530
 categories: [Guides, Cybersecurity 101]
 tags: [Cybersecurity, Security Fundamentals, Information Security]
-image: /assets/img/posts/cybersecurity-101.webp
+image: /assets/img/posts/cybersecurity/cybersecurity-101.webp
 toc: true
 math: false
 mermaid: false
