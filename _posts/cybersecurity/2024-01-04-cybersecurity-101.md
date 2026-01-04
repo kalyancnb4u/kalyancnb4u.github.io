@@ -4,7 +4,7 @@ title: "🧭 Cybersecurity 101: An Introductory Guide & Essential Foundations"
 description: "Databases - A Quick Guide - Complete Functional Categorization, Best Choices, Differences, Cloud Support, Python Connectivity & Analytical Comparison!"
 author: technical_notes
 date: 2024-01-04 00:00:00 +0530
-categories: [Guides, Cybersecurity 101]
+categories: [Guides, Cybersecurity]
 tags: [Cybersecurity, Security Fundamentals, Information Security]
 image: /assets/img/posts/cybersecurity/cybersecurity-101.webp
 toc: true
