@@ -1,8 +1,8 @@
 ---
 title: "Complete Python Mastery Part 3: SDLC - Requirements, Design & Architecture"
 date: 2024-12-04 00:00:00 +0530
-categories: [Python, Software Engineering, SDLC, Architecture]
-tags: [python, sdlc, architecture, design-patterns, api-design, requirements, system-design]
+categories: [Python, Mastery]
+tags: [Python, Software Engineering, SDLC, Architecture, Design Patterns, API-design, Requirements, System Design]
 ---
 ## Table of Contents
 
@@ -558,13 +558,13 @@ Reviewers: @architect, @tech-lead, @security
           - Builds Elasticsearch queries
           - Aggregates and ranks results
           - Caches frequent searches (Redis)
-     
+   
        b) Elasticsearch Cluster
           - Stores product search indices
           - Performs full-text search
           - Supports faceted search
           - Analyzes search queries
-     
+   
        c) Data Sync Service
           - Syncs product data from PostgreSQL to Elasticsearch
           - Handles incremental updates
@@ -886,7 +886,7 @@ class EstimationTechnique:
        - 5 points: 2-3 days
        - 8 points: 1 week
        - 13 points: Too large, split it!
-     
+   
     2. T-SHIRT SIZING
        - XS: < 1 day
        - S: 1-2 days
@@ -1555,7 +1555,7 @@ class EventBus:
             exchange_type='topic',
             durable=True
         )
-      
+    
         self.channel.basic_publish(
             exchange='events',
             routing_key=event_type,
@@ -1572,18 +1572,18 @@ class EventBus:
             exchange_type='topic',
             durable=True
         )
-      
+    
         # Create queue for this consumer
         result = self.channel.queue_declare(queue='', exclusive=True)
         queue_name = result.method.queue
-      
+    
         # Bind queue to event type
         self.channel.queue_bind(
             exchange='events',
             queue=queue_name,
             routing_key=event_type
         )
-      
+    
         # Set up consumer
         self.channel.basic_consume(
             queue=queue_name,
@@ -1599,14 +1599,14 @@ class UserService:
     async def create_user(self, user_data: dict):
         # Save user to database
         user = await self.repository.save(user_data)
-      
+    
         # Publish event
         self.event_bus.publish('user.created', {
             'user_id': user.id,
             'email': user.email,
             'timestamp': datetime.utcnow().isoformat()
         })
-      
+    
         return user
 
 # Consumer: Email Service
@@ -1619,14 +1619,14 @@ class EmailService:
     def handle_user_created(self, ch, method, properties, body):
         """Handle user.created event"""
         data = json.loads(body)
-      
+    
         # Send welcome email
         self.send_email(
             to=data['email'],
             subject='Welcome!',
             body=f'Welcome user {data["user_id"]}!'
         )
-      
+    
         print(f"Sent welcome email to {data['email']}")
 
 # Consumer: Analytics Service
@@ -1708,7 +1708,7 @@ class CreateUserCommandHandler(CommandHandler):
         # Validate
         if await self.repository.exists_by_email(command.email):
             raise ValueError("Email already exists")
-      
+    
         # Create user (write model)
         user = User(
             id=generate_uuid(),
@@ -1716,12 +1716,12 @@ class CreateUserCommandHandler(CommandHandler):
             name=command.name,
             created_at=datetime.utcnow()
         )
-      
+    
         await self.repository.save(user)
-      
+    
         # Publish event
         await self.event_bus.publish('user.created', user.to_dict())
-      
+    
         return user.id
 
 # Queries (Read side)
@@ -1864,22 +1864,22 @@ class UserService:
   
     async def register_user(self, email: str, name: str) -> User:
         """Business logic for user registration"""
-      
+    
         # Business rule: Email must be unique
         existing = await self.user_repository.find_by_email(email)
         if existing:
             raise ValueError("Email already registered")
-      
+    
         # Create user
         user = User(
             id=self._generate_id(),
             email=email,
             name=name
         )
-      
+    
         # Save user
         await self.user_repository.save(user)
-      
+    
         return user
   
     def _generate_id(self) -> str:
@@ -2003,7 +2003,7 @@ def create_user_service(environment: str) -> UserService:
         Session = sessionmaker(bind=engine)
         session = Session()
         repository = PostgreSQLUserRepository(session)
-      
+    
     elif environment == 'test':
         # Test: Use in-memory repository
         repository = InMemoryUserRepository()
@@ -2272,15 +2272,15 @@ class Pizza:
         def __init__(self, size: str):
             self._size = size
             self._toppings = []
-      
+    
         def add_cheese(self):
             self._toppings.append("cheese")
             return self
-      
+    
         def add_pepperoni(self):
             self._toppings.append("pepperoni")
             return self
-      
+    
         def build(self) -> 'Pizza':
             return Pizza(self._size, self._toppings)
 
@@ -2415,10 +2415,10 @@ class LegacyPaymentAdapter(PaymentProcessor):
         # Convert interface
         amount_cents = int(amount * 100)
         card_number = payment_method['card_number']
-      
+    
         # Call legacy method
         result = self.legacy_gateway.process_payment(amount_cents, card_number)
-      
+    
         # Convert response
         return {
             'success': result['status'] == 'success',
@@ -2585,7 +2585,7 @@ class VideoConverter:
     def convert(self, filename: str, format: str) -> str:
         file = VideoFile(filename)
         codec = CodecFactory.extract(file)
-      
+    
         if format == "mp4":
             buffer = BitrateReader.read(filename, codec)
             result = BitrateReader.convert(buffer, codec)
@@ -2905,10 +2905,10 @@ class CommandHistory:
   
     def execute(self, command: Command):
         command.execute()
-      
+    
         # Remove commands after current position
         self.history = self.history[:self.position + 1]
-      
+    
         # Add new command
         self.history.append(command)
         self.position += 1
@@ -3338,7 +3338,7 @@ class Order:
         """Business logic"""
         if quantity <= 0:
             raise ValueError("Quantity must be positive")
-      
+    
         item = OrderItem(product_id, quantity, price)
         self.items.append(item)
   
@@ -3346,7 +3346,7 @@ class Order:
         """Domain logic"""
         if not self.items:
             return Money(0, "USD")
-      
+    
         total = self.items[0].subtotal()
         for item in self.items[1:]:
             total = total.add(item.subtotal())
@@ -3358,7 +3358,7 @@ class Order:
             raise ValueError("Cannot place empty order")
         if self.status != "pending":
             raise ValueError(f"Cannot place order in {self.status} status")
-      
+    
         self.status = "placed"
         # Raise domain event
         return OrderPlacedEvent(self.id, self.customer_id, self.total())
@@ -3401,7 +3401,7 @@ class Customer:
         """Business logic at aggregate level"""
         if order.customer_id != self.id:
             raise ValueError("Order doesn't belong to this customer")
-      
+    
         event = order.place()
         self.orders.append(order)
         return event
@@ -3445,14 +3445,14 @@ class OrderService:
     def calculate_customer_lifetime_value(self, customer_id: str) -> Money:
         """Domain logic spanning multiple orders"""
         orders = self.repository.find_by_customer(customer_id)
-      
+    
         if not orders:
             return Money(0, "USD")
-      
+    
         total = orders[0].total()
         for order in orders[1:]:
             total = total.add(order.total())
-      
+    
         return total
 
 # Usage
@@ -4241,7 +4241,7 @@ async def get_current_user(
                 status_code=status.HTTP_401_UNAUTHORIZED,
                 detail="Invalid authentication credentials"
             )
-      
+    
         return TokenData(
             user_id=user_id,
             email=payload.get("email"),
