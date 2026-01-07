@@ -1,8 +1,8 @@
 ---
 title: "Complete SQL Mastery Part 3: Advanced SQL Techniques"
-date: 2025-01-01 14:00:00 +0530
-categories: [Database, SQL, Performance]
-tags: [sql, database, optimization, mysql, postgresql, joins, window-functions, cte, subqueries, analytics]
+date: 2024-02-04 00:00:00 +0530
+categories: [SQL, Mastery]
+tags: [SQL, Database, PostgreSQL, MySQL, Performance, Optimization, Joins, Window-functions, CTE, Sub-queries, Analytics]
 ---
 
 # Complete SQL Mastery Part 3: Advanced SQL Techniques
