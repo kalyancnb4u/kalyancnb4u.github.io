@@ -1,8 +1,8 @@
 ---
 title: "Complete SQL Mastery: From Fundamentals to Production Excellence"
-date: 2025-01-05 00:00:00 +0530
-categories: [Database, SQL]
-tags: [sql, database, postgresql, mysql, tutorial, optimization, production]
+date: 2024-02-01 00:00:00 +0530
+categories: [SQL, Mastery]
+tags: [SQL, Database, PostgreSQL, MySQL, Tutorial, Optimization, Production]
 pin: true
 ---
 
