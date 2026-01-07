@@ -1,5 +1,5 @@
 ---
-title: "Complete SQL Mastery Part 1: SQL Fundamentals & Command Categories"
+title: "SQL Mastery Part 1: SQL Fundamentals & Command Categories"
 date: 2024-02-02 00:00:00 +0530
 categories: [SQL, Mastery]
 tags: [SQL, Database, PostgreSQL, MySQL, Performance, Optimization, Internals, Indexing, Transactions, DDL, DML, DCL, TCL]
