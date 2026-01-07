@@ -1,5 +1,5 @@
 ---
-title: "Complete SQL Mastery Part 4: Query Optimization & Performance"
+title: "SQL Mastery Part 4: Query Optimization & Performance"
 date: 2024-02-05 00:00:00 +0530
 categories: [SQL, Mastery]
 tags: [SQL, Database, PostgreSQL, MySQL, Performance, Optimization, Indexing, Explain, Explain Analyze, Query-tuning]
