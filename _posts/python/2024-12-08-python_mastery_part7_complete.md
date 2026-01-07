@@ -1,7 +1,7 @@
 ---
-title: "Complete Python Mastery Part 7: Performance Optimization & Production Best Practices"
+title: "Python Mastery Part 7: Performance Optimization & Production Best Practices"
 date: 2024-12-08 00:00:00 +0530
-categories: [Python, Mastery]
+categories: [Python, Language Mastery]
 tags: [Python, Production, Best Practices, Performance, Optimization, Profiling, Caching, Security]
 ---
 ## Table of Contents
