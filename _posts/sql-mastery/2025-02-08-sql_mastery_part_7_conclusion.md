@@ -5,7 +5,7 @@ categories: [SQL, Mastery]
 tags: [SQL, Database, PostgreSQL, MySQL, Interview, Career, Series, Learning-path]
 ---
 
-> **Series Navigation:** [📚 Series Overview](/posts/sql-mastery-series-overview) • [All Parts](#series-recap)
+> **Series Navigation:** [📚 Series Overview](#sql-mastery-series-overview) • [All Parts](#series-recap)
 
 # Complete SQL Mastery: Series Conclusion & Next Steps
 
@@ -594,8 +594,8 @@ The world needs more people who understand databases deeply. You're one of them 
 
 <div class="series-navigation">
   <div class="nav-buttons">
-    <a href="/posts/sql-mastery-series-overview" class="btn btn-primary">← Back to Series Overview</a>
-    <a href="/posts/sql-mastery-part1-fundamentals" class="btn btn-secondary">Re-read Part 1 →</a>
+    <a href="#sql-mastery-series-overview" class="btn btn-primary">← Back to Series Overview</a>
+    <a href="#sql-mastery-part1-fundamentals" class="btn btn-secondary">Re-read Part 1 →</a>
   </div>
 </div>
 
