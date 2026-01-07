@@ -1,8 +1,8 @@
 ---
 title: "Complete SQL Mastery Part 2: Database Internals & System Architecture"
-date: 2025-01-01 12:00:00 +0530
-categories: [Database, SQL, Performance]
-tags: [sql, database, optimization, mysql, postgresql, internals, storage-engine, buffer-pool, mvcc, wal, transactions]
+date: 2024-02-03 00:00:00 +0530
+categories: [SQL, Mastery]
+tags: [SQL, Database, PostgreSQL, MySQL, Performance, Optimization, Internals, Transactions, Storage-engine, Buffer-pool, MVCC, WAL]
 ---
 
 # Complete SQL Mastery Part 2: Database Internals & System Architecture
