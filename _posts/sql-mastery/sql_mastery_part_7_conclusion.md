@@ -1,9 +1,8 @@
 ---
 title: "Complete SQL Mastery: Series Conclusion & Next Steps"
-date: 2025-01-01 23:00:00 +0530
-categories: [Database, SQL, Series, Career]
-tags: [sql, database, conclusion, career, learning-path, mastery]
-pin: false
+date: 2024-02-08 00:00:00 +0530
+categories: [SQL, Mastery]
+tags: [SQL, Database, PostgreSQL, MySQL, Interview, Career, Series, Learning-path]
 ---
 
 > **Series Navigation:** [📚 Series Overview](/posts/sql-mastery-series-overview) • [All Parts](#series-recap)
