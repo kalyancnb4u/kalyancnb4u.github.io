@@ -1,9 +1,10 @@
 ---
-title: "Complete Python Mastery Part 2: Python Internals & Advanced Language Features"
+title: "Python Mastery Part 2: Python Internals & Advanced Language Features"
 date: 2024-12-03 00:00:00 +0530
-categories: [Python, Mastery]
+categories: [Python, Language Mastery]
 tags: [Python, Software Engineering, Internals, Cpython, Async, Concurrency, Meta-programming, Type-hints, Performance]
 ---
+
 ## Table of Contents
 
 - [Introduction](#introduction)
