@@ -1,8 +1,8 @@
 ---
-title: "Complete Python Mastery Series"
+title: "Python Mastery Series"
 date: 2024-12-01 00:00:00 +0530
-categories: [Python, Mastery]
-tags: [python, programming, tutorial, mastery, learning-path]
+categories: [Python, Language Mastery]
+tags: [Python, Programming, Tutorial, Mastery, Learning-path]
 pin: true
 ---
 # Complete Python Mastery Series
