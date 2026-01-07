@@ -1,8 +1,8 @@
 ---
 title: "Complete SQL Mastery Part 5: Production Operations & Advanced Features"
-date: 2025-01-01 20:00:00 +0530
-categories: [Database, SQL, Operations]
-tags: [sql, database, production, operations, replication, backup, monitoring, security, high-availability, postgresql, mysql]
+date: 2024-02-06 00:00:00 +0530
+categories: [SQL, Mastery]
+tags: [SQL, Database, PostgreSQL, MySQL, Operations, Production, Operations, Replication, Backup, Monitoring, Security, High-availability]
 ---
 
 # Complete SQL Mastery Part 5: Production Operations & Advanced Features
