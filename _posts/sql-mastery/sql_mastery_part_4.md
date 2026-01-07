@@ -1,4 +1,3 @@
-
 ---
 title: "Complete SQL Mastery Part 4: Query Optimization & Performance"
 date: 2024-02-05 00:00:00 +0530
