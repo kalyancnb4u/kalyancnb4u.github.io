@@ -1,5 +1,5 @@
 ---
-title: "Complete Python Mastery for DevSecOps Part 4: Debugging and Troubleshooting"
+title: "Python for DevSecOps Part 4: Debugging and Troubleshooting"
 date: 2025-01-05 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Debugging, Profiling, Logging, Troubleshooting, pdb, Production]
