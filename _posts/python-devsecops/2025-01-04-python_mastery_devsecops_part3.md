@@ -1,5 +1,5 @@
 ---
-title: "Complete Python Mastery for DevSecOps Part 3: Testing and Quality Assurance"
+title: "Python for DevSecOps Part 3: Testing and Quality Assurance"
 date: 2025-01-04 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Testing, Pytest, TDD, Mocking, Coverage, Quality-assurance, Automation]
