@@ -1,5 +1,5 @@
 ---
-title: "Complete Python Mastery for DevSecOps Part 7: Advanced Python Topics"
+title: "Python for DevSecOps Part 7: Advanced Python Topics"
 date: 2025-01-08 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Advanced, Metaclasses, Decorators, Async, Concurrency, Performance, Generators, Context-managers]
