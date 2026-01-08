@@ -1,5 +1,5 @@
 ---
-title: "Complete Python Mastery for DevSecOps Part 9: Interview Preparation"
+title: "Python for DevSecOps Part 9: Interview Preparation"
 date: 2025-01-10 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Interview, Career, Coding-challenges, System-design, Behavioral, Salary]
