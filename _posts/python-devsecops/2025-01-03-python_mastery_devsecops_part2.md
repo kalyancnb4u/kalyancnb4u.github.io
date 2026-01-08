@@ -1,5 +1,5 @@
 ---
-title: "Complete Python Mastery for DevSecOps Part 2: Software Engineering Principles"
+title: "Python for DevSecOps Part 2: Software Engineering Principles"
 date: 2025-01-03 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Software Engineering, SOLID, Design-patterns, Architecture, Refactoring, Code-quality, Testing]
