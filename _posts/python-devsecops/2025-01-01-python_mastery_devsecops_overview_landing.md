@@ -1,5 +1,5 @@
 ---
-title: "Complete Python Mastery for DevSecOps"
+title: "Python for DevSecOps"
 date: 2025-01-01 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Automation, Security, Kubernetes, Cloud, Tutorial]
