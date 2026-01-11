@@ -1,8 +1,8 @@
 ---
-title: "Python Mastery - Interview Flashcards"
-date: 2025-01-04 01:00:00 +0530
-categories: [Python, Interview, Flashcards]
-tags: [python, interview, flashcards, review, questions]
+title: "Python Supplement - Part 5: Interview Flashcards"
+date: 2024-12-25 00:00:00 +0530
+categories: [Python, Python Mastery]
+tags: [Python, Interview, Flashcards, Review, Questions]
 ---
 
 # Python Mastery - Interview Flashcards (200 Questions)
