@@ -47,8 +47,7 @@ jobs:
 
       - name: Build site
         run: |
-          bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}" \
-            \-\-enforce-https=false
+          bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
 
@@ -59,7 +58,7 @@ jobs:
             \-\-disable-external \
             \-\-ignore-urls "/^#/,/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/" \
             \-\-ignore-missing-alt \
-            \-\-allow-hash-href
+            \-\-allow-hash-href \
             \-\-enforce-https=false
 
       - name: Upload site artifact
