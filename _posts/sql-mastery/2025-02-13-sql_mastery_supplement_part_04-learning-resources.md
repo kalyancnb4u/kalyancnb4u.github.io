@@ -1,8 +1,8 @@
 ---
-title: "SQL Learning Resources Compilation"
-date: 2026-01-01 15:30:00 +0000
-categories: [Database, SQL, Resources]
-tags: [sql, learning, resources, tools, documentation]
+title: "SQL Supplement Part 4: SQL Learning Resources Compilation"
+date: 2024-02-13 00:00:00 +0530
+categories: [SQL, SQL Mastery]
+tags: [SQL, Database, Resources, Learning, Tools, Documentation]
 ---
 
 # SQL Learning Resources Compilation
