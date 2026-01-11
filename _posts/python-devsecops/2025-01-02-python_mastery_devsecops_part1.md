@@ -1,5 +1,5 @@
 ---
-title: "Python for DevSecOps Part 1: Python Fundamentals for Production Code"
+title: "Python DevSecOps - Part 1: Python Fundamentals for Production Code"
 date: 2025-01-02 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Software Engineering, Security, Testing, Debugging, Automation, Infrastructure, Monitoring, CI-CD]
