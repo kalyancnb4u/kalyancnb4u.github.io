@@ -1,5 +1,5 @@
 ---
-title: "Python Mastery Part 4: Testing & Quality Assurance"
+title: "Python Mastery - Part 4: Testing & Quality Assurance"
 date: 2024-12-05 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Testing, Quality Assurance, TDD, Pytest, Unittest, Code-quality, Coverage]
