@@ -1,7 +1,7 @@
 ---
 title: "SQL Mastery Part 3: Advanced SQL Techniques"
 date: 2024-02-04 00:00:00 +0530
-categories: [SQL, Mastery]
+categories: [SQL, SQL Mastery]
 tags: [SQL, Database, PostgreSQL, MySQL, Performance, Optimization, Joins, Window-functions, CTE, Sub-queries, Analytics]
 ---
 
