@@ -1,5 +1,5 @@
 ---
-title: "Python for DevSecOps Part 6: DevSecOps Automation"
+title: "Python DevSecOps - Part 6: DevSecOps Automation"
 date: 2025-01-07 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Automation, Terraform, Kubernetes, CI-CD, Ansible, Monitoring, IaC, Infrastructure-as-Code]
