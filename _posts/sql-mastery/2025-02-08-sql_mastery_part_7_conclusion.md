@@ -1,7 +1,7 @@
 ---
 title: "SQL Mastery: Series Conclusion & Next Steps"
 date: 2024-02-08 00:00:00 +0530
-categories: [SQL, Mastery]
+categories: [SQL, SQL Mastery]
 tags: [SQL, Database, PostgreSQL, MySQL, Interview, Career, Series, Learning-path]
 ---
 
