@@ -1,7 +1,7 @@
 ---
 title: "Python Mastery Part 8: Advanced Topics & Specialized Domains"
 date: 2024-12-09 00:00:00 +0530
-categories: [Python, Language Mastery]
+categories: [Python, Python Mastery]
 tags: [Python, Advanced, Data Science, Web Scraping, CLI, System Programming, Numpy, Pandas, Automation]
 ---
 ## Table of Contents
