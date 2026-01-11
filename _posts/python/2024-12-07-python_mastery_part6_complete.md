@@ -1,7 +1,7 @@
 ---
 title: "Python Mastery Part 6: Version Control & Collaboration"
 date: 2024-12-07 00:00:00 +0530
-categories: [Python, Language Mastery]
+categories: [Python, Python Mastery]
 tags: [Python, Git, GitHub, GitLab, Version Control, Collaboration, Code Review]
 ---
 ## Table of Contents
