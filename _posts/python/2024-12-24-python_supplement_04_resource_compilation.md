@@ -1,9 +1,8 @@
 ---
-title: "Python Mastery - Resource Compilation"
-date: 2025-01-04 00:45:00 +0530
-categories: [Python, Resources, Links]
-tags: [python, resources, documentation, videos, tools, learning]
-pin: false
+title: "Python Supplement - Part 4: Resource Compilation"
+date: 2024-12-24 00:00:00 +0530
+categories: [Python, Python Mastery]
+tags: [Python, Resources, Links, Documentation, Videos, Tools, Learning]
 ---
 
 # Python Mastery - Resource Compilation
