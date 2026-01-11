@@ -1,5 +1,5 @@
 ---
-title: "Python Mastery Part 1: Python Fundamentals & Core Language"
+title: "Python Mastery - Part 1: Python Fundamentals & Core Language"
 date: 2024-12-02 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Development, Fundamentals, Data Structures, OOP, Functions, Internals, Software Engineering, SDLC]
