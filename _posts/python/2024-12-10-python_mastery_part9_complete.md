@@ -1,7 +1,7 @@
 ---
 title: "Python Mastery Part 9: Package Management, Distribution & Ecosystem"
 date: 2024-12-10 00:00:00 +0530
-categories: [Python, Language Mastery]
+categories: [Python, Python Mastery]
 tags: [Python, Packages, Distribution, PyPI, Poetry, Dependencies, Setup-tools, Eco-system]
 ---
 ## Table of Contents
