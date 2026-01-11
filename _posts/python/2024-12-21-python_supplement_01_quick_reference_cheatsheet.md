@@ -1,9 +1,8 @@
 ---
-title: "Python Mastery - Quick Reference Cheat Sheet"
-date: 2025-01-04 00:00:00 +0530
-categories: [Python, Reference, Cheatsheet]
-tags: [python, cheatsheet, quick-reference, summary]
-pin: false
+title: "Python Supplement - Part 1: Quick Reference Cheat Sheet"
+date: 2024-12-21 00:00:00 +0530
+categories: [Python, Python Mastery]
+tags: [Python, Reference, Cheatsheet, Quick-reference, Summary]
 ---
 
 # Python Mastery - Quick Reference Cheat Sheet
