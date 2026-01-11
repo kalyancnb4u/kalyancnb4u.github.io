@@ -1,7 +1,7 @@
 ---
 title: "SQL Mastery Series: From Fundamentals to Production Excellence"
 date: 2024-02-01 00:00:00 +0530
-categories: [SQL, Mastery]
+categories: [SQL, SQL Mastery]
 tags: [SQL, Database, PostgreSQL, MySQL, Tutorial, Optimization, Production]
 pin: true
 ---
