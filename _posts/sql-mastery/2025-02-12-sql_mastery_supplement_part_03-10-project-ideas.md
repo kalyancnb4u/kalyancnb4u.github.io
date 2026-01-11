@@ -1,5 +1,5 @@
 ---
-title: "SQL Supplement Part 3: 10 SQL Practice Projects with Sample Data"
+title: "SQL Supplement - Part 3: 10 SQL Practice Projects with Sample Data"
 date: 2024-02-12 00:00:00 +0530
 categories: [SQL, SQL Mastery]
 tags: [SQL, Database, Projects, Practice, Hands-on]
