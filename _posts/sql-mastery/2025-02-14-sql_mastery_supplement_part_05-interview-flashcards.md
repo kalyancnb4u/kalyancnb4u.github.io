@@ -1,8 +1,8 @@
 ---
-title: "SQL Interview Flashcards - 200 Questions"
-date: 2026-01-01 16:00:00 +0000
-categories: [Database, SQL, Interview]
-tags: [sql, flashcards, interview, study, review]
+title: "SQL Supplement Part 5: SQL Interview Flashcards - 200 Questions"
+date: 2024-02-14 00:00:00 +0530
+categories: [SQL, SQL Mastery]
+tags: [SQL, Database, Interview, Flash-cards, Study, Review]
 ---
 
 # SQL Interview Flashcards - 200 Questions
