@@ -1,5 +1,5 @@
 ---
-title: "SQL Supplement Part 6: Complete SQL Sample Datasets & Scripts"
+title: "SQL Supplement - Part 6: Complete SQL Sample Datasets & Scripts"
 date: 2024-02-15 00:00:00 +0530
 categories: [SQL, SQL Mastery]
 tags: [SQL, Database, Datasets, Sample-data, Practice]
