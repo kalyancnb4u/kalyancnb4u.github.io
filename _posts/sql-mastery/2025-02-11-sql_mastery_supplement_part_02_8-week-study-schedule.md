@@ -1,8 +1,8 @@
 ---
-title: "8-Week SQL Mastery Study Schedule"
-date: 2026-01-01 14:30:00 +0000
-categories: [Database, SQL, Learning]
-tags: [sql, study-plan, learning-path, schedule]
+title: "SQL Supplement Part 2: 8-Week SQL Mastery Study Schedule"
+date: 2024-02-11 00:00:00 +0530
+categories: [SQL, SQL Mastery]
+tags: [SQL, Database, Learning, Study-plan, Learning-path, Schedule]
 ---
 
 # 8-Week SQL Mastery Study Schedule
