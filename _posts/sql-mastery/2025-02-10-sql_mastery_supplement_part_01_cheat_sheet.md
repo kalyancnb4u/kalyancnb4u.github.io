@@ -1,9 +1,8 @@
 ---
-title: "SQL Quick Reference Cheat Sheet"
-date: 2026-01-01 14:00:00 +0000
-categories: [Database, SQL, Reference]
-tags: [sql, cheat-sheet, quick-reference, syntax]
-pin: true
+title: "SQL Supplement Part 1: SQL Quick Reference Cheat Sheet"
+date: 2024-02-10 00:00:00 +0530
+categories: [SQL, SQL Mastery]
+tags: [SQL, Database, Reference, Cheat-sheet, Quick-reference, Syntax]
 ---
 
 # SQL Quick Reference Cheat Sheet
