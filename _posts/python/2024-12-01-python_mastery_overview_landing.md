@@ -1,5 +1,5 @@
 ---
-title: "Python Mastery Series"
+title: "Python Mastery Series..."
 date: 2024-12-01 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Programming, Tutorial, Mastery, Learning-path]
