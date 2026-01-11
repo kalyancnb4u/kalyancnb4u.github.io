@@ -1,9 +1,8 @@
 ---
-title: "Complete Python Mastery - Expert Quick Reference"
-date: 2025-01-03 23:59:00 +0530
-categories: [Python, Reference, Expert]
-tags: [python, expert, reference, cheatsheet, advanced]
-pin: false
+title: "Python Supplement - Part 9: Expert Quick Reference"
+date: 2024-12-29 00:00:00 +0530
+categories: [Python, Python Mastery]
+tags: [Python, Reference, Expert, Cheat-sheet, Advanced]
 ---
 
 # Complete Python Mastery - Expert Quick Reference
