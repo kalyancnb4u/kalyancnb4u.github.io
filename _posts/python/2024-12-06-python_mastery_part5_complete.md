@@ -1,7 +1,7 @@
 ---
 title: "Python Mastery Part 5: Deployment & DevOps"
 date: 2024-12-06 00:00:00 +0530
-categories: [Python, Language Mastery]
+categories: [Python, Python Mastery]
 tags: [Python, DevOps, Deployment, Docker, Kubernetes, CI/CD, Monitoring]
 ---
 ## Table of Contents
