@@ -1,5 +1,5 @@
 ---
-title: "Python Mastery Part 10: Interview Preparation & Real-World Scenarios"
+title: "Python Mastery - Part 10: Interview Preparation & Real-World Scenarios"
 date: 2024-12-11 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Interview, Career, Real-World, System Design, Questions, Scenarios, Preparation]
