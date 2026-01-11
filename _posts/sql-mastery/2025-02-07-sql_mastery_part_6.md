@@ -1,5 +1,5 @@
 ---
-title: "SQL Mastery Part 6: Interview Preparation & Career Mastery"
+title: "SQL Mastery - Part 6: Interview Preparation & Career Mastery"
 date: 2024-02-07 00:00:00 +0530
 categories: [SQL, SQL Mastery]
 tags: [SQL, Database, PostgreSQL, MySQL, Interview, Career, System-design, Troubleshooting, Best-practices]
