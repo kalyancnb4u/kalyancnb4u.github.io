@@ -1,9 +1,8 @@
 ---
-title: "Python Mastery - 10 Project Ideas"
-date: 2025-01-04 00:30:00 +0530
-categories: [Python, Projects, Practice]
-tags: [python, projects, practice, portfolio, hands-on]
-pin: false
+title: "Python Supplement - Part 3: 10 Project Ideas"
+date: 2024-12-23 00:00:00 +0530
+categories: [Python, Python Mastery]
+tags: [Python, Projects, Practice, Portfolio, Hands-on]
 ---
 
 # Python Mastery - 10 Project Ideas
