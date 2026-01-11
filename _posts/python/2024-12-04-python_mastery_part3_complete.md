@@ -1,7 +1,7 @@
 ---
 title: "Python Mastery Part 3: SDLC - Requirements, Design & Architecture"
 date: 2024-12-04 00:00:00 +0530
-categories: [Python, Language Mastery]
+categories: [Python, Python Mastery]
 tags: [Python, Software Engineering, SDLC, Architecture, Design Patterns, API-design, Requirements, System Design]
 ---
 ## Table of Contents
