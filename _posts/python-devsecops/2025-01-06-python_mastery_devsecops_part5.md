@@ -1,5 +1,5 @@
 ---
-title: "Python for DevSecOps Part 5: Security in Python"
+title: "Python DevSecOps - Part 5: Security in Python"
 date: 2025-01-06 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Security, OWASP, Cryptography, Secrets-management, Secure-coding, SAST, DAST]
