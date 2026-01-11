@@ -1,5 +1,5 @@
 ---
-title: "Python for DevSecOps Part 8: Real-World Projects"
+title: "Python DevSecOps - Part 8: Real-World Projects"
 date: 2025-01-09 00:00:00 +0530
 categories: [Python, DevSecOps]
 tags: [Python, DevSecOps, Projects, Hands-on, Capstone, Deployment, Security, Monitoring, Automation]
