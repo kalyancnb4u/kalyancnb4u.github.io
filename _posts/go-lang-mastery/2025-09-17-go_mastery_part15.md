@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 15: Mobile & Cross-Platform Development"
-date: 2025-01-13 20:00:00 +0530
-categories: [Programming, Go, Mobile]
-tags: [golang, go, mobile, android, ios, gui, cross-platform, fyne, gio]
+title: "Go Mastery - Part 15: Mobile & Cross-Platform Development"
+date: 2025-09-17 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Mobile, Android, iOS, GUI, Cross-platform, Fyne, GIO]
 ---
 
 # Part 15: Mobile & Cross-Platform Development
