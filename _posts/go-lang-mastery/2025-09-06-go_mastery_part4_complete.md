@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 4: Testing, Benchmarking & Code Quality"
-date: 2025-01-10 16:00:00 +0530
-categories: [Programming, Go, Testing]
-tags: [golang, go, testing, benchmarking, profiling, code-quality, tdd, coverage, fuzzing]
+title: "Go Mastery - Part 4: Testing, Benchmarking & Code Quality"
+date: 2025-09-06 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Testing, Benchmarking, Profiling, Code-quality, TDD, Coverage, Fuzzing]
 ---
 
 # Complete Go Mastery Part 4: Testing, Benchmarking & Code Quality
