@@ -5,6 +5,7 @@ categories: [Go-lang, Go Mastery]
 tags: [Go-lang, Programming, Advanced, Reflection, Generics, Code-generation, Unsafe, Assembly, Patterns, Meta-programming]
 ---
 
+{% raw %}
 # Complete Go Mastery Part 3: Advanced Go Patterns & Techniques
 
 ## Introduction
@@ -5331,3 +5332,4 @@ for n := range evens {
 
 This completes our comprehensive tour of advanced Go patterns and techniques!
 
+{% noraw %}
