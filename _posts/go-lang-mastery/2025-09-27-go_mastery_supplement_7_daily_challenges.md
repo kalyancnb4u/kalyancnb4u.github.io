@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery - 30-Day Coding Challenge"
-date: 2025-01-11 09:00:00 +0530
-categories: [Programming, Go, Practice]
-tags: [golang, go, challenges, daily-practice, coding]
+title: "Go Mastery - Supplement 7: 30-Day Coding Challenge"
+date: 2025-09-27 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Challenges, Daily-practice, Coding, Practice]
 ---
 
 # Complete Go Mastery - 30-Day Coding Challenge
