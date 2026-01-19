@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 2: Concurrency & Go Runtime Internals"
-date: 2025-01-10 12:00:00 +0530
-categories: [Programming, Go, Concurrency]
-tags: [golang, go, concurrency, goroutines, channels, scheduler, runtime, garbage-collection, memory-management]
+title: "Go Mastery - Part 2: Concurrency & Go Runtime Internals"
+date: 2025-09-04 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Backend, Concurrency, Go-routines, Channels, Scheduler, Runtime, Garbage-collection, Memory-management]
 ---
 
 # Complete Go Mastery Part 2: Concurrency & Go Runtime Internals
