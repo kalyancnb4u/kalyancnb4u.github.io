@@ -5,6 +5,7 @@ categories: [Go-lang, Go Mastery]
 tags: [Go-lang, Programming, Architecture, Clean-architecture, DDD, Hexagonal, Microservices, API-design, Patterns]
 ---
 
+{% raw %}
 # Complete Go Mastery Part 5: Production Architecture Patterns
 
 ## Introduction
@@ -3191,3 +3192,4 @@ With Parts 1-5 complete (~85,000 words!), you have mastered:
 
 **You're now equipped to build production-grade Go applications!**
 
+{% endraw %}
