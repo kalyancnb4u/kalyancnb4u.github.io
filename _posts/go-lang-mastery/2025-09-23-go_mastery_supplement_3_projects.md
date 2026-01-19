@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery - 10 Practice Projects"
-date: 2025-01-11 07:00:00 +0530
-categories: [Programming, Go, Projects]
-tags: [golang, go, projects, practice, portfolio]
+title: "Go Mastery - Supplement 3: 10 Practice Projects"
+date: 2025-09-23 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Projects, Practice, Portfolio]
 ---
 
 # Complete Go Mastery - 10 Practice Projects
