@@ -3,7 +3,6 @@ title: "🧭 Go Mastery Series - Table of Contents"
 date: 2025-09-02 00:00:00 +0530
 categories: [Go-lang, Go Mastery]
 tags: [Go-lang, Programming, TOC, Contents, Guide, Mastery, Learning-path]
-pin: true
 ---
 
 # Complete Go Mastery Series - Detailed Table of Contents
