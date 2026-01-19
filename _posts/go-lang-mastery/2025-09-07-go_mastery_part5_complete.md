@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 5: Production Architecture Patterns"
-date: 2025-01-10 18:00:00 +0530
-categories: [Programming, Go, Architecture]
-tags: [golang, go, architecture, clean-architecture, ddd, hexagonal, microservices, api-design, patterns]
+title: "Go Mastery - Part 5: Production Architecture Patterns"
+date: 2025-09-07 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Architecture, Clean-architecture, DDD, Hexagonal, Microservices, API-design, Patterns]
 ---
 
 # Complete Go Mastery Part 5: Production Architecture Patterns
