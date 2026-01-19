@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 13: Advanced Networking"
-date: 2025-01-13 16:00:00 +0530
-categories: [Programming, Go, Networking]
-tags: [golang, go, networking, tcp, udp, protocols, dns, load-balancer, proxy]
+title: "Go Mastery - Part 13: Advanced Networking"
+date: 2025-09-15 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Networking, TCP, UDP, Protocols, DNS, Load-balancer, Proxy]
 ---
 
 # Part 13: Advanced Networking
