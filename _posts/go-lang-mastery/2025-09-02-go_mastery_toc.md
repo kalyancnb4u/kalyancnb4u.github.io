@@ -77,7 +77,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 5  
 **Projects:** Hello World, CLI Calculator
 
-[**Read Part 1 →**]({% post_url 2025-01-11-go-mastery-part1-complete %})
+[**Read Part 1 →**](#)
 
 ---
 
@@ -129,7 +129,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 8  
 **Projects:** Rate limiter, Concurrent web scraper
 
-[**Read Part 2 →**]({% post_url 2025-01-11-go-mastery-part2-complete %})
+[**Read Part 2 →**](#)
 
 ---
 
@@ -186,7 +186,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 6  
 **Projects:** REST API for todo app, Real-time chat
 
-[**Read Part 3 →**]({% post_url 2025-01-11-go-mastery-part3-complete %})
+[**Read Part 3 →**](#)
 
 ---
 
@@ -238,7 +238,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 7  
 **Projects:** Database-backed blog, Caching layer
 
-[**Read Part 4 →**]({% post_url 2025-01-11-go-mastery-part4-complete %})
+[**Read Part 4 →**](#)
 
 ---
 
@@ -287,7 +287,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 5  
 **Projects:** Microservices system, Event-driven app
 
-[**Read Part 5 →**]({% post_url 2025-01-11-go-mastery-part5-complete %})
+[**Read Part 5 →**](#)
 
 ---
 
@@ -334,7 +334,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 6  
 **Projects:** Code generator, Monitoring system
 
-[**Read Part 6 →**]({% post_url 2025-01-11-go-mastery-part6-complete %})
+[**Read Part 6 →**](#)
 
 ---
 
@@ -381,7 +381,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 10  
 **Projects:** Test suite for previous projects
 
-[**Read Part 7 →**]({% post_url 2025-01-11-go-mastery-part7-complete %})
+[**Read Part 7 →**](#)
 
 ---
 
@@ -433,7 +433,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 8  
 **Projects:** Performance optimization of existing apps
 
-[**Read Part 8 →**]({% post_url 2025-01-11-go-mastery-part8-complete %})
+[**Read Part 8 →**](#)
 
 ---
 
@@ -484,7 +484,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 7  
 **Projects:** Security audit, Secure API
 
-[**Read Part 9 →**]({% post_url 2025-01-11-go-mastery-part9-complete %})
+[**Read Part 9 →**](#)
 
 ---
 
@@ -539,7 +539,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 6  
 **Projects:** Full deployment pipeline
 
-[**Read Part 10 →**]({% post_url 2025-01-11-go-mastery-part10-complete %})
+[**Read Part 10 →**](#)
 
 ---
 
@@ -580,7 +580,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 5  
 **Projects:** Full-stack HTMX app, WASM game
 
-[**Read Part 11 →**]({% post_url 2025-01-13-go-mastery-part11 %})
+[**Read Part 11 →**](#)
 
 ---
 
@@ -623,7 +623,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 5  
 **Projects:** Real-time data pipeline
 
-[**Read Part 12 →**]({% post_url 2025-01-13-go-mastery-part12 %})
+[**Read Part 12 →**](#)
 
 ---
 
@@ -669,7 +669,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 5  
 **Projects:** Production load balancer, DNS server
 
-[**Read Part 13 →**]({% post_url 2025-01-13-go-mastery-part13 %})
+[**Read Part 13 →**](#)
 
 ---
 
@@ -722,7 +722,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 5  
 **Projects:** ML-powered API, Image classifier
 
-[**Read Part 14 →**]({% post_url 2025-01-13-go-mastery-part14 %})
+[**Read Part 14 →**](#)
 
 ---
 
@@ -769,7 +769,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 5  
 **Projects:** Cross-platform app, Offline-first notes
 
-[**Read Part 15 →**]({% post_url 2025-01-13-go-mastery-part15 %})
+[**Read Part 15 →**](#)
 
 ---
 
@@ -819,7 +819,7 @@ tags: [Go-lang, Programming, TOC, Contents, Roadmap]
 **Exercises:** 5  
 **Projects:** Blockchain app, IoT system
 
-[**Read Part 16 →**]({% post_url 2025-01-13-go-mastery-part16 %})
+[**Read Part 16 →**](#)
 
 ---
 
@@ -965,7 +965,7 @@ Parts 1-5 → 11 → 14 → 15 → 16
 
 ---
 
-**Ready to begin?** Start with [Part 1: Go Fundamentals →]({% post_url 2025-01-11-go-mastery-part1-complete %})
+**Ready to begin?** Start with [Part 1: Go Fundamentals →](#)
 
 ---
 
