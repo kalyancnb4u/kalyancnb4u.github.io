@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 8: Performance Optimization & Profiling"
-date: 2025-01-11 00:00:00 +0530
-categories: [Programming, Go, Performance]
-tags: [golang, go, performance, optimization, profiling, benchmarking, memory, cpu, scalability]
+title: "Go Mastery - Part 8: Performance Optimization & Profiling"
+date: 2025-09-10 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Performance, Optimization, Profiling, Benchmarking, Memory, CPU, Scalability]
 ---
 
 # Complete Go Mastery Part 8: Performance Optimization & Profiling
