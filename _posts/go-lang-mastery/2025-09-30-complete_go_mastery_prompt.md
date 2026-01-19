@@ -1,3 +1,10 @@
+---
+title: "Go Mastery - Master Prompt: CO-STAR-A Prompt"
+date: 2025-09-30 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Master Prompt]
+---
+
 # CO-STAR-A Prompt: Complete Go Language Mastery Guide (Enhanced & Comprehensive)
 
 ---
