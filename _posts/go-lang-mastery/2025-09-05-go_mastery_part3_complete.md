@@ -115,8 +115,8 @@ type Person struct {
     Age  int
 }
 
-func examineType(x interface{}) {
-    t := reflect.TypeOf(x)
+func examineType( x interface{}) {
+    t := reflect.TypeOf( x)
     
     fmt.Printf("Type: %v\n", t)
     fmt.Printf("Name: %v\n", t.Name())
@@ -148,8 +148,8 @@ examineType(Person{Name: "Alice", Age: 30})
 #### **Getting and Setting Values**
 
 ```go
-func modifyValue(x interface{}) {
-    v := reflect.ValueOf(x)
+func modifyValue( x interface{}) {
+    v := reflect.ValueOf( x)
     
     fmt.Printf("Value: %v\n", v)
     fmt.Printf("Type: %v\n", v.Type())
@@ -157,8 +157,8 @@ func modifyValue(x interface{}) {
     fmt.Printf("Can set? %v\n", v.CanSet())  // false! (not addressable)
 }
 
-func modifyPointer(x interface{}) {
-    v := reflect.ValueOf(x)
+func modifyPointer( x interface{}) {
+    v := reflect.ValueOf( x)
     
     if v.Kind() != reflect.Ptr {
         fmt.Println("Not a pointer!")
@@ -179,10 +179,10 @@ func modifyPointer(x interface{}) {
 
 // Usage
 x := 42
-modifyValue(x)   // Can't modify (not addressable)
+modifyValue( x)   // Can't modify (not addressable)
 
 modifyPointer(&x)  // Can modify
-fmt.Println(x)     // 100
+fmt.Println( x)     // 100
 ```
 
 **Key rule**: To modify a value via reflection, you need a pointer to it.
@@ -196,9 +196,9 @@ type User struct {
     Email    string `json:"email" db:"email" validate:"email"`
 }
 
-func inspectStruct(x interface{}) {
-    t := reflect.TypeOf(x)
-    v := reflect.ValueOf(x)
+func inspectStruct( x interface{}) {
+    t := reflect.TypeOf( x)
+    v := reflect.ValueOf( x)
     
     if t.Kind() != reflect.Struct {
         fmt.Println("Not a struct")
@@ -230,8 +230,8 @@ inspectStruct(user)
 ### Working with Struct Tags
 
 ```go
-func getJSONFieldNames(x interface{}) []string {
-    t := reflect.TypeOf(x)
+func getJSONFieldNames( x interface{}) []string {
+    t := reflect.TypeOf( x)
     
     if t.Kind() == reflect.Ptr {
         t = t.Elem()
@@ -629,7 +629,7 @@ func processValue(v reflect.Value) {
 }
 
 // ✅ GOOD: Use type assertion when type is known
-func process(x interface{}) {
+func process( x interface{}) {
     // If you know it's a User, use type assertion
     if user, ok := x.(User); ok {
         fmt.Println(user.Name)  // Direct access, fast
@@ -637,7 +637,7 @@ func process(x interface{}) {
     }
     
     // Fall back to reflection only if needed
-    v := reflect.ValueOf(x)
+    v := reflect.ValueOf( x)
     // ...
 }
 
@@ -1108,7 +1108,7 @@ m3 := Pair("count", 42)         // map[string]int
 Go can often infer type parameters:
 
 ```go
-func Identity[T any](x T) T {
+func Identity[T any]( x T) T {
     return x
 }
 
@@ -1169,7 +1169,7 @@ func Max[T constraints.Ordered](a, b T) T {
 }
 
 // Signed: signed integer types
-func Abs[T constraints.Signed](x T) T {
+func Abs[T constraints.Signed]( x T) T {
     if x < 0 {
         return -x
     }
@@ -1255,13 +1255,13 @@ type IntOrString interface {
     int | string
 }
 
-func Double[T IntOrString](x T) T {
+func Double[T IntOrString]( x T) T {
     var zero T
-    switch any(x).(type) {
+    switch any( x).(type) {
     case int:
-        return any(x.(int) * 2).(T)
+        return any( x.(int) * 2).(T)
     case string:
-        return any(x.(string) + x.(string)).(T)
+        return any( x.(string) + x.(string)).(T)
     }
     return zero
 }
@@ -1804,10 +1804,10 @@ func Reverse[T any](slice []T) []T {
 }
 
 // ❌ OVERKILL: Too simple for generics
-func Print[T any](x T) {
-    fmt.Println(x)
+func Print[T any]( x T) {
+    fmt.Println( x)
 }
-// Just use: fmt.Println(x)
+// Just use: fmt.Println( x)
 
 // ✅ GOOD: Type-safe data structure
 type Set[T comparable] struct {
@@ -2017,7 +2017,7 @@ if val, ok := cache.Get("a"); ok {
 - Custom constraints: define with interfaces
 
 ✅ **Generic types and functions**
-- Functions: func Foo[T any](x T) T
+- Functions: func Foo[T any]( x T) T
 - Types: type Stack[T any] struct
 - Methods: func (s *Stack[T]) Push(item T)
 
@@ -3479,8 +3479,8 @@ Congratulations! You've completed Part 3 of the Complete Go Mastery series. You 
 **Simplicity over cleverness:**
 ```go
 // ❌ Clever but hard to maintain
-func Process(x interface{}) {
-    v := reflect.ValueOf(x)
+func Process( x interface{}) {
+    v := reflect.ValueOf( x)
     // Complex reflection logic...
 }
 
@@ -3591,8 +3591,8 @@ Before moving to Part 4, reinforce your learning:
 
 ```go
 // Get type and value
-t := reflect.TypeOf(x)
-v := reflect.ValueOf(x)
+t := reflect.TypeOf( x)
+v := reflect.ValueOf( x)
 
 // Type information
 t.Kind()           // reflect.Struct, reflect.Int, etc.
@@ -3619,7 +3619,7 @@ v.Call(args []reflect.Value) []reflect.Value
 
 ```go
 // Function with type parameter
-func Foo[T any](x T) T { return x }
+func Foo[T any]( x T) T { return x }
 
 // Multiple type parameters
 func Pair[K comparable, V any](k K, v V) map[K]V
@@ -3647,9 +3647,9 @@ p := unsafe.Pointer(&x)
 intPtr := (*int)(p)
 
 // Size and offset
-unsafe.Sizeof(x)
+unsafe.Sizeof( x)
 unsafe.Offsetof(s.field)
-unsafe.Alignof(x)
+unsafe.Alignof( x)
 
 // Slice from pointer (Go 1.17+)
 unsafe.Slice(ptr, length)
@@ -4467,19 +4467,19 @@ func divide(a, b float64) Result[float64, error] {
     return Ok[float64, error](a / b)
 }
 
-func sqrt(x float64) Result[float64, error] {
+func sqrt( x float64) Result[float64, error] {
     if x < 0 {
         return Err[float64, error](errors.New("negative number"))
     }
-    return Ok[float64, error](math.Sqrt(x))
+    return Ok[float64, error](math.Sqrt( x))
 }
 
 // Chain operations
 result := divide(10, 2).
-    AndThen(func(x float64) Result[float64, error] {
-        return sqrt(x)
+    AndThen(func( x float64) Result[float64, error] {
+        return sqrt( x)
     }).
-    Map(func(x float64) float64 {
+    Map(func( x float64) float64 {
         return x * 2
     })
 
