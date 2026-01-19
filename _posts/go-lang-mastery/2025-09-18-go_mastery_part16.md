@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 16: Blockchain, IoT & Emerging Technologies"
-date: 2025-01-13 22:00:00 +0530
-categories: [Programming, Go, Emerging-Tech]
-tags: [golang, go, blockchain, iot, edge-computing, webassembly, grpc-web, smart-contracts]
+title: "Go Mastery - Part 16: Blockchain, IoT & Emerging Technologies"
+date: 2025-09-18 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Emerging-Tech, Blockchain, IoT, Edge-computing, Web-assembly, gRPC-web, Smart-contracts]
 ---
 
 # Part 16: Blockchain, IoT & Emerging Technologies
