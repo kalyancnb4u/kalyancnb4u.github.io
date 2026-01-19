@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery - Study Notes Template"
-date: 2025-01-11 09:30:00 +0530
-categories: [Programming, Go, Study]
-tags: [golang, go, notes, template, study-guide]
+title: "Go Mastery - Supplement 8: Study Notes Template"
+date: 2025-09-28 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Study, Notes, Template, Study-guide]
 ---
 
 # Study Notes Template
