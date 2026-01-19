@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery - Quick Reference Cheat Sheet"
-date: 2025-01-11 06:00:00 +0530
-categories: [Programming, Go, Reference]
-tags: [golang, go, cheat-sheet, quick-reference, summary]
+title: "Go Mastery - Quick Reference Cheat Sheet"
+date: 2025-09-21 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Reference, Cheat-sheet, Quick-reference, Summary]
 ---
 
 # Complete Go Mastery - Quick Reference Cheat Sheet
