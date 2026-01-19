@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 11: Web & Frontend Integration"
-date: 2025-01-13 12:00:00 +0530
-categories: [Programming, Go, Web-Development]
-tags: [golang, go, web, frontend, htmx, webassembly, graphql, ssr, websockets]
+title: "Go Mastery - Part 11: Web & Frontend Integration"
+date: 2025-09-13 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Web, Front-end, HTMX, Web-assembly, GraphQL, SSR, Web-sockets]
 ---
 
 # Part 11: Web & Frontend Integration
