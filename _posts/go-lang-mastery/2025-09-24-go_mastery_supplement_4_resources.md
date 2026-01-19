@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery - Resource Compilation"
-date: 2025-01-11 07:30:00 +0530
-categories: [Programming, Go, Resources]
-tags: [golang, go, resources, documentation, learning]
+title: "Go Mastery - Supplement 4: Resource Compilation"
+date: 2025-09-24 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Resources, Documentation, Learning]
 ---
 
 # Complete Go Mastery - Resource Compilation
