@@ -85,7 +85,8 @@ Learn Go from the ground up with clear explanations and practical examples.
 
 **Practice:** 5 exercises • 2 mini-projects
 
-[**Read Part 1 →**]({% post_url 2025-01-11-go-mastery-part1-complete %})
+[TBD Part-1] ( "{% post_url 2025-01-11-go-mastery-part1-complete %}" )
+[**Read Part 1 →**](#)
 
 ---
 
@@ -104,7 +105,7 @@ Master Go's killer feature: goroutines and channels for concurrent programming.
 
 **Practice:** 8 concurrency exercises • Rate limiter project
 
-[**Read Part 2 →**]({% post_url 2025-01-11-go-mastery-part2-complete %})
+[**Read Part 2 →**](#)
 
 ---
 
@@ -123,7 +124,7 @@ Build production-ready web applications and APIs.
 
 **Practice:** 6 web exercises • Build complete REST API
 
-[**Read Part 3 →**]({% post_url 2025-01-11-go-mastery-part3-complete %})
+[**Read Part 3 →**](#)
 
 ---
 
@@ -142,7 +143,7 @@ Work with SQL and NoSQL databases in production.
 
 **Practice:** Database projects • Migration strategies
 
-[**Read Part 4 →**]({% post_url 2025-01-11-go-mastery-part4-complete %})
+[**Read Part 4 →**](#)
 
 ---
 
@@ -161,7 +162,7 @@ Design scalable, maintainable production systems.
 
 **Practice:** Refactor monolith to microservices
 
-[**Read Part 5 →**]({% post_url 2025-01-11-go-mastery-part5-complete %})
+[**Read Part 5 →**](#)
 
 ---
 
@@ -180,7 +181,7 @@ Master advanced Go features and patterns.
 
 **Practice:** Build code generators • Add observability
 
-[**Read Part 6 →**]({% post_url 2025-01-11-go-mastery-part6-complete %})
+[**Read Part 6 →**](#)
 
 ---
 
@@ -199,7 +200,7 @@ Write bulletproof code with comprehensive testing.
 
 **Practice:** Achieve 80%+ coverage on projects
 
-[**Read Part 7 →**]({% post_url 2025-01-11-go-mastery-part7-complete %})
+[**Read Part 7 →**](#)
 
 ---
 
@@ -218,7 +219,7 @@ Make your applications blazingly fast.
 
 **Practice:** Achieve 10x performance improvements
 
-[**Read Part 8 →**]({% post_url 2025-01-11-go-mastery-part8-complete %})
+[**Read Part 8 →**](#)
 
 ---
 
@@ -237,7 +238,7 @@ Build secure applications that protect user data.
 
 **Practice:** Security audit previous projects
 
-[**Read Part 9 →**]({% post_url 2025-01-11-go-mastery-part9-complete %})
+[**Read Part 9 →**](#)
 
 ---
 
@@ -256,7 +257,7 @@ Deploy Go applications to production with confidence.
 
 **Practice:** Deploy complete production system
 
-[**Read Part 10 →**]({% post_url 2025-01-11-go-mastery-part10-complete %})
+[**Read Part 10 →**](#)
 
 ---
 
@@ -277,7 +278,7 @@ Bridge backend Go with modern frontend technologies.
 
 **Practice:** Build full-stack app with HTMX
 
-[**Read Part 11 →**]({% post_url 2025-01-13-go-mastery-part11 %})
+[**Read Part 11 →**](#)
 
 ---
 
@@ -296,7 +297,7 @@ Build data pipelines and processing systems.
 
 **Practice:** Build real-time data pipeline
 
-[**Read Part 12 →**]({% post_url 2025-01-13-go-mastery-part12 %})
+[**Read Part 12 →**](#)
 
 ---
 
@@ -315,7 +316,7 @@ Master network programming and protocols.
 
 **Practice:** Build production load balancer
 
-[**Read Part 13 →**]({% post_url 2025-01-13-go-mastery-part13 %})
+[**Read Part 13 →**](#)
 
 ---
 
@@ -334,7 +335,7 @@ Integrate ML and AI into Go applications.
 
 **Practice:** Build ML-powered application
 
-[**Read Part 14 →**]({% post_url 2025-01-13-go-mastery-part14 %})
+[**Read Part 14 →**](#)
 
 ---
 
@@ -353,7 +354,7 @@ Build mobile and cross-platform applications.
 
 **Practice:** Build cross-platform app
 
-[**Read Part 15 →**]({% post_url 2025-01-13-go-mastery-part15 %})
+[**Read Part 15 →**](#)
 
 ---
 
@@ -373,7 +374,7 @@ Explore cutting-edge applications of Go.
 
 **Practice:** Build blockchain application
 
-[**Read Part 16 →**]({% post_url 2025-01-13-go-mastery-part16 %})
+[**Read Part 16 →**](#)
 
 ---
 
@@ -700,13 +701,13 @@ This series is available for personal and educational use.
 
 ### Start Your Journey Today
 
-**Complete Beginners:** Start with [Part 1: Go Fundamentals →]({% post_url 2025-01-11-go-mastery-part1-complete %})
+**Complete Beginners:** Start with [Part 1: Go Fundamentals →](#)
 
-**Web Developers:** Jump to [Part 11: Web & Frontend →]({% post_url 2025-01-13-go-mastery-part11 %})
+**Web Developers:** Jump to [Part 11: Web & Frontend →](#)
 
-**ML Enthusiasts:** Explore [Part 14: ML & AI Integration →]({% post_url 2025-01-13-go-mastery-part14 %})
+**ML Enthusiasts:** Explore [Part 14: ML & AI Integration →](#)
 
-**Blockchain Developers:** Check [Part 16: Blockchain & IoT →]({% post_url 2025-01-13-go-mastery-part16 %})
+**Blockchain Developers:** Check [Part 16: Blockchain & IoT →](#)
 
 **Quick Review:** Use the [Cheat Sheet →](#)
 
