@@ -86,6 +86,7 @@ Learn Go from the ground up with clear explanations and practical examples.
 **Practice:** 5 exercises • 2 mini-projects
 
 [TBD Part-1] ( " { % post_url 2025-01-11-go-mastery-part1-complete % } " )
+
 [**Read Part 1 →**](#)
 
 ---
