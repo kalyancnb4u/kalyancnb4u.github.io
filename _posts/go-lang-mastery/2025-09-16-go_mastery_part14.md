@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 14: Machine Learning & AI Integration"
-date: 2025-01-13 18:00:00 +0530
-categories: [Programming, Go, Machine-Learning]
-tags: [golang, go, machine-learning, ai, neural-networks, tensorflow, nlp, computer-vision]
+title: "Go Mastery - Part 14: Machine Learning & AI Integration"
+date: 2025-09-16 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming,  Machine-Learning, AI, Neural-networks, Tensorflow, NLP, Computer-vision]
 ---
 
 # Part 14: Machine Learning & AI Integration
