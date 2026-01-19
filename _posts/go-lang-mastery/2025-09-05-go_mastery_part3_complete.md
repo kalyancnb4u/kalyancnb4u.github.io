@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 3: Advanced Go Patterns & Techniques"
-date: 2025-01-10 14:00:00 +0530
-categories: [Programming, Go, Advanced]
-tags: [golang, go, reflection, generics, code-generation, unsafe, assembly, patterns, metaprogramming]
+title: "Go Mastery - Part 3: Advanced Go Patterns & Techniques"
+date: 2025-09-05 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Advanced, Reflection, Generics, Code-generation, Unsafe, Assembly, Patterns, Meta-programming]
 ---
 
 # Complete Go Mastery Part 3: Advanced Go Patterns & Techniques
