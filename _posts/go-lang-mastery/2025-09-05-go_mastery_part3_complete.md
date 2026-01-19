@@ -1108,7 +1108,7 @@ m3 := Pair("count", 42)         // map[string]int
 Go can often infer type parameters:
 
 ```go
-func Identity[T any]( x T) T {
+func Identity[T any] ( x T) T {
     return x
 }
 
@@ -1169,7 +1169,7 @@ func Max[T constraints.Ordered](a, b T) T {
 }
 
 // Signed: signed integer types
-func Abs[T constraints.Signed]( x T) T {
+func Abs[T constraints.Signed] ( x T) T {
     if x < 0 {
         return -x
     }
@@ -1255,7 +1255,7 @@ type IntOrString interface {
     int | string
 }
 
-func Double[T IntOrString]( x T) T {
+func Double[T IntOrString] ( x T) T {
     var zero T
     switch any( x).(type) {
     case int:
@@ -1804,7 +1804,7 @@ func Reverse[T any](slice []T) []T {
 }
 
 // ❌ OVERKILL: Too simple for generics
-func Print[T any]( x T) {
+func Print[T any] ( x T) {
     fmt.Println( x)
 }
 // Just use: fmt.Println( x)
@@ -2017,7 +2017,7 @@ if val, ok := cache.Get("a"); ok {
 - Custom constraints: define with interfaces
 
 ✅ **Generic types and functions**
-- Functions: func Foo[T any]( x T) T
+- Functions: func Foo[T any] ( x T) T
 - Types: type Stack[T any] struct
 - Methods: func (s *Stack[T]) Push(item T)
 
@@ -3619,7 +3619,7 @@ v.Call(args []reflect.Value) []reflect.Value
 
 ```go
 // Function with type parameter
-func Foo[T any]( x T) T { return x }
+func Foo[T any] ( x T) T { return x }
 
 // Multiple type parameters
 func Pair[K comparable, V any](k K, v V) map[K]V
