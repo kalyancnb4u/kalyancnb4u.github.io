@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery: The Ultimate Learning Guide"
-date: 2025-01-11 10:00:00 +0530
-categories: [Programming, Go, Learning-Guide]
-tags: [golang, go, mastery, complete-guide, learning-path, career]
+title: "🧭 Go Mastery Series..."
+date: 2025-09-01 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Tutorial, Guide, Mastery, Learning-path]
 pin: true
 ---
 
