@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 12: Data Engineering & Processing"
-date: 2025-01-13 14:00:00 +0530
-categories: [Programming, Go, Data-Engineering]
-tags: [golang, go, kafka, streaming, etl, data-pipeline, time-series, big-data]
+title: "Go Mastery - Part 12: Data Engineering & Processing"
+date: 2025-09-14 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Data-Engineering, Kafka, Streaming, ETL, Data-pipeline, Time-series, Big-data]
 ---
 
 # Part 12: Data Engineering & Processing
