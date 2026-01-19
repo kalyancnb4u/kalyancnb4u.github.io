@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 9: Security Best Practices"
-date: 2025-01-11 02:00:00 +0530
-categories: [Programming, Go, Security]
-tags: [golang, go, security, cryptography, authentication, authorization, owasp, vulnerabilities, secure-coding]
+title: "Go Mastery - Part 9: Security Best Practices"
+date: 2025-09-11 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Security, Cryptography, Authentication, Authorization, OWASP, Vulnerabilities, Secure-coding]
 ---
 
 # Complete Go Mastery Part 9: Security Best Practices
