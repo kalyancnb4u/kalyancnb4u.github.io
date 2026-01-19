@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery - 8-Week Study Schedule"
-date: 2025-01-11 06:30:00 +0530
-categories: [Programming, Go, Study-Plan]
-tags: [golang, go, study-schedule, learning-plan, curriculum]
+title: "Go Mastery - Supplement 2: 8-Week Study Schedule"
+date: 2025-09-22 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Study-Plan, Study-schedule, Learning-plan, Curriculum]
 ---
 
 # Complete Go Mastery - 8-Week Study Schedule
