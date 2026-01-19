@@ -1,5 +1,5 @@
 ---
-title: "Go Mastery - Quick Reference Cheat Sheet"
+title: "Go Mastery - Supplement 1: Quick Reference Cheat Sheet"
 date: 2025-09-21 00:00:00 +0530
 categories: [Go-lang, Go Mastery]
 tags: [Go-lang, Programming, Reference, Cheat-sheet, Quick-reference, Summary]
