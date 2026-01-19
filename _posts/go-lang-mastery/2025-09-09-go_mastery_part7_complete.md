@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 7: Deployment, DevOps & Cloud Native"
-date: 2025-01-10 22:00:00 +0530
-categories: [Programming, Go, DevOps]
-tags: [golang, go, deployment, devops, docker, kubernetes, ci-cd, cloud-native, containers]
+title: "Go Mastery - Part 7: Deployment, DevOps & Cloud Native"
+date: 2025-09-09 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, DevOps, Deployment, DevOps, Docker, Kubernetes, CI-CD, Cloud-native, Containers]
 ---
 
 # Complete Go Mastery Part 7: Deployment, DevOps & Cloud Native
