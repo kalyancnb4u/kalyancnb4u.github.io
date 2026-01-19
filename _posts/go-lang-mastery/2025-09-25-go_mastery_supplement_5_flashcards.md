@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery - Interview Flashcards (200 Questions)"
-date: 2025-01-11 08:00:00 +0530
-categories: [Programming, Go, Interview]
-tags: [golang, go, flashcards, interview, quick-review]
+title: "Go Mastery - Supplement 5: Interview Flashcards (200 Questions)"
+date: 2025-09-25 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Interview, Flash-cards, Quick-review]
 ---
 
 # Complete Go Mastery - Interview Flashcards
