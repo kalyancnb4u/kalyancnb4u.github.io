@@ -94,7 +94,7 @@ Learn Go from the ground up with clear explanations and practical examples.
 
 **Practice:** 5 exercises • 2 mini-projects
 
-[**Read Part 1 →**]({% post_url 2025-01-11-go-mastery-part1-complete %})
+[**Read Part 1 →**]({% post_url 2025-09-03-go-mastery-part1-complete %})
 
 ---
 
@@ -122,7 +122,7 @@ Master Go's killer feature: goroutines and channels for concurrent programming.
 
 **Practice:** 8 concurrency exercises • Rate limiter project
 
-[**Read Part 2 →**]({% post_url 2025-01-11-go-mastery-part2-complete %})
+[**Read Part 2 →**]({% post_url 2025-09-04-go-mastery-part2-complete %})
 
 ---
 
@@ -149,7 +149,7 @@ Explore advanced Go features and design patterns.
 
 **Practice:** 6 advanced exercises • Generic data structures
 
-[**Read Part 3 →**]({% post_url 2025-01-11-go-mastery-part3-complete %})
+[**Read Part 3 →**]({% post_url 2025-09-05-go-mastery-part3-complete %})
 
 ---
 
@@ -177,7 +177,7 @@ Write bulletproof code with comprehensive testing strategies.
 
 **Practice:** Write tests for all previous projects • Achieve 80%+ coverage
 
-[**Read Part 4 →**]({% post_url 2025-01-11-go-mastery-part4-complete %})
+[**Read Part 4 →**]({% post_url 2025-09-06-go-mastery-part4-complete %})
 
 ---
 
@@ -205,7 +205,7 @@ Design scalable, maintainable production systems.
 
 **Practice:** Refactor monolith to microservices • Build DDD-based system
 
-[**Read Part 5 →**]({% post_url 2025-01-11-go-mastery-part5-complete %})
+[**Read Part 5 →**]({% post_url 2025-09-07-go-mastery-part5-complete %})
 
 ---
 
@@ -233,7 +233,7 @@ Understand what's happening in production systems.
 
 **Practice:** Add full observability to previous projects
 
-[**Read Part 6 →**]({% post_url 2025-01-11-go-mastery-part6-complete %})
+[**Read Part 6 →**]({% post_url 2025-09-08-go-mastery-part6-complete %})
 
 ---
 
@@ -261,7 +261,7 @@ Deploy Go applications to production with confidence.
 
 **Practice:** Deploy to Kubernetes • Set up complete CI/CD pipeline
 
-[**Read Part 7 →**]({% post_url 2025-01-11-go-mastery-part7-complete %})
+[**Read Part 7 →**]({% post_url 2025-09-09-go-mastery-part7-complete %})
 
 ---
 
@@ -290,7 +290,7 @@ Make your Go applications blazingly fast.
 
 **Practice:** Optimize previous projects • Achieve 10x improvements
 
-[**Read Part 8 →**]({% post_url 2025-01-11-go-mastery-part8-complete %})
+[**Read Part 8 →**]({% post_url 2025-09-10-go-mastery-part8-complete %})
 
 ---
 
@@ -319,7 +319,7 @@ Build secure applications that protect user data.
 
 **Practice:** Security audit of all projects • Implement auth system
 
-[**Read Part 9 →**]({% post_url 2025-01-11-go-mastery-part9-complete %})
+[**Read Part 9 →**]({% post_url 2025-09-11-go-mastery-part9-complete %})
 
 ---
 
@@ -347,7 +347,7 @@ Land your dream Go developer role with top compensation.
 
 **Practice:** 100+ coding problems • 10 system designs • Mock interviews
 
-[**Read Part 10 →**]({% post_url 2025-01-11-go-mastery-part10-complete %})
+[**Read Part 10 →**]({% post_url 2025-09-12-go-mastery-part10-complete %})
 
 ---
 
