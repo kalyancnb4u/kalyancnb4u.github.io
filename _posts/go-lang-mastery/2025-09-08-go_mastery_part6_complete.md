@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 6: Observability, Monitoring & Debugging"
-date: 2025-01-10 20:00:00 +0530
-categories: [Programming, Go, Observability]
-tags: [golang, go, monitoring, logging, metrics, tracing, debugging, profiling, alerting, observability]
+title: "Go Mastery - Part 6: Observability, Monitoring & Debugging"
+date: 2025-09-08 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Observability, Monitoring, Logging, Metrics, Tracing, Debugging, Profiling, Alerting, Observability]
 ---
 
 # Complete Go Mastery Part 6: Observability, Monitoring & Debugging
