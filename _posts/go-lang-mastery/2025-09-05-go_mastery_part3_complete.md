@@ -45,9 +45,9 @@ Reflection is the ability to inspect type information and manipulate values at r
 ```go
 import "reflect"
 
-func inspect(x interface{}) {
-    t := reflect.TypeOf(x)
-    v := reflect.ValueOf(x)
+func inspect( x interface{}) {
+    t := reflect.TypeOf( x)
+    v := reflect.ValueOf( x)
     
     fmt.Printf("Type: %v\n", t)
     fmt.Printf("Value: %v\n", v)
