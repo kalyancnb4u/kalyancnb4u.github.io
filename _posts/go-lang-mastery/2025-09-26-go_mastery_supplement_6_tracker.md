@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery - Progress Tracker"
-date: 2025-01-11 08:30:00 +0530
-categories: [Programming, Go, Tracking]
-tags: [golang, go, progress, tracker, checklist]
+title: "Go Mastery - Supplement 6: Progress Tracker"
+date: 2025-09-26 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Tracking, Progress, Tracker, Check-list]
 ---
 
 # Complete Go Mastery - Progress Tracker
