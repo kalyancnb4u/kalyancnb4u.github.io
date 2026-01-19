@@ -1,5 +1,5 @@
 ---
-title: "🧭 Go Mastery Series - Table of Contents"
+title: "Go Mastery Series - Table of Contents"
 date: 2025-09-02 00:00:00 +0530
 categories: [Go-lang, Go Mastery]
 tags: [Go-lang, Programming, TOC, Contents, Roadmap]
