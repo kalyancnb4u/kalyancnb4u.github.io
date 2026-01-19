@@ -1,8 +1,8 @@
 ---
-title: "Complete Go Mastery Part 1: Go Fundamentals & Language Design"
-date: 2025-01-10 10:00:00 +0530
-categories: [Programming, Go, Backend]
-tags: [golang, go, fundamentals, types, functions, interfaces, packages, modules]
+title: "Go Mastery - Part 1: Go Fundamentals & Language Design"
+date: 2025-09-03 00:00:00 +0530
+categories: [Go-lang, Go Mastery]
+tags: [Go-lang, Programming, Backend, Fundamentals, Types, Functions, Interfaces, Packages, Modules]
 ---
 
 # Complete Go Mastery Part 1: Go Fundamentals & Language Design
