@@ -1,8 +1,8 @@
 ---
-title: "Complete TypeScript Mastery Part 8: Production Deployment, Monitoring & Performance"
-date: 2026-01-08 17:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, production, deployment, monitoring, performance, docker, kubernetes, ci-cd, observability]
+title: "TypeScript Mastery - Part 8: Production Deployment, Monitoring & Performance"
+date: 2025-05-09 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Web Development, Production, Deployment, Monitoring, Performance, Docker, Kubernetes, CI-CD, Observability]
 ---
 
 # Complete TypeScript Mastery Part 8: Production Deployment, Monitoring & Performance
