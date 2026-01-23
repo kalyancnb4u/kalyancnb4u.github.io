@@ -1,8 +1,8 @@
 ---
-title: "Complete TypeScript Mastery Part 6: Ecosystem & Framework Integration"
-date: 2026-01-08 15:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, vue, angular, nextjs, nestjs, graphql, orm, ecosystem]
+title: "TypeScript Mastery - Part 6: Ecosystem & Framework Integration"
+date: 2025-05-07 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, JavaScript, Programming, Web Development, Vue, Angular, NextJS, NestJS, GraphQL, ORM, Eco-system]
 ---
 
 # Complete TypeScript Mastery Part 6: Ecosystem & Framework Integration
