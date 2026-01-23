@@ -1,8 +1,8 @@
 ---
-title: "Complete TypeScript Mastery Part 5: Advanced Topics and Best Practices"
-date: 2026-01-08 14:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, design-patterns, architecture, performance, security, best-practices, advanced]
+title: "TypeScript Mastery - Part 5: Advanced Topics and Best Practices"
+date: 2025-05-06 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, JavaScript, Programming, Web Development, Design-patterns, Architecture, Performance, Security, Best-practices, Advanced]
 ---
 
 # Complete TypeScript Mastery Part 5: Advanced Topics and Best Practices
