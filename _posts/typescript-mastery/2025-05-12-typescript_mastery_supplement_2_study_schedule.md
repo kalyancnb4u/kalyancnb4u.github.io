@@ -1,8 +1,8 @@
 ---
-title: "8-Week TypeScript Mastery Study Schedule"
-date: 2026-01-08 18:30:00 +0530
-categories: [Programming, TypeScript, Study Plan]
-tags: [typescript, study-plan, schedule, learning]
+title: "TypeScript Mastery - Supplement 2: 8-Week TypeScript Mastery Study Schedule"
+date: 2025-05-12 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Reference, Study Plan, Schedule, Learning]
 ---
 
 # 8-Week TypeScript Mastery Study Schedule
