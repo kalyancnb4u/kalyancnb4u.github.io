@@ -1,15 +1,19 @@
 ---
-title: "Complete TypeScript Mastery Series - Your Journey to Expert-Level TypeScript"
-date: 2026-01-08 22:00:00 +0530
-categories: [Programming, TypeScript, Learning Path]
-tags: [typescript, tutorial, learning, mastery, complete-guide]
+title: "🧭 TypeScript Mastery Series..."
+date: 2025-05-01 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Tutorial, Learning-path, Mastery]
 pin: true
-image:
-  path: /assets/img/typescript-mastery-banner.png
-  alt: Complete TypeScript Mastery Series
 ---
+<!--
+#image:
+#  path: /assets/img/typescript-mastery-banner.png
+#  alt: Complete TypeScript Mastery Series
+-->
 
 # 🚀 Welcome to the Complete TypeScript Mastery Series
+ 
+Your Journey to Expert-Level TypeScript
 
 > **131,614 words | 19 comprehensive documents | Your complete path from beginner to TypeScript expert**
 
