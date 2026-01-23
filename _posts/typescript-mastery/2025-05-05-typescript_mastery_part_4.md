@@ -1,8 +1,8 @@
 ---
-title: "Complete TypeScript Mastery Part 4: TypeScript in Practice"
-date: 2026-01-08 13:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, react, nodejs, express, api, design-patterns, architecture, best-practices]
+title: "TypeScript Mastery - Part 4: TypeScript in Practice"
+date: 2025-05-05 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, JavaScript, Programming, Web Development, React, NodeJS, Express, API, Design-patterns, Architecture, Best-practices]
 ---
 
 # Complete TypeScript Mastery Part 4: TypeScript in Practice
