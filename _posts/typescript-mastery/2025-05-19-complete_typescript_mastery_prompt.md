@@ -1,3 +1,10 @@
+---
+title: "TypeScript Mastery - Master Prompt: CO-STAR-A Prompt"
+date: 2025-05-19 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Master Prompt]
+---
+
 # CO-STAR-A Prompt: Complete TypeScript Mastery Guide (Enhanced & Comprehensive)
 
 ---
