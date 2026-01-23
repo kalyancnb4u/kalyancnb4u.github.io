@@ -1,8 +1,8 @@
 ---
-title: "TypeScript Mastery Progress Tracker"
-date: 2026-01-08 20:30:00 +0530
-categories: [Programming, TypeScript, Progress]
-tags: [typescript, progress-tracker, checklist, learning]
+title: "TypeScript Mastery - Supplement 6: Progress Tracker"
+date: 2025-05-16 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Progress, Checklist, Learning]
 ---
 
 # TypeScript Mastery Progress Tracker
