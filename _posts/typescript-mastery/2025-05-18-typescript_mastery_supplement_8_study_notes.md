@@ -1,8 +1,8 @@
 ---
-title: "TypeScript Study Notes Template"
-date: 2026-01-08 21:30:00 +0530
-categories: [Programming, TypeScript, Study Notes]
-tags: [typescript, notes, learning, templates]
+title: "TypeScript Mastery - Supplement 8: TypeScript Study Notes Template"
+date: 2025-05-18 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Study Notes, Notes, Learning, Templates]
 ---
 
 # TypeScript Study Notes Template
