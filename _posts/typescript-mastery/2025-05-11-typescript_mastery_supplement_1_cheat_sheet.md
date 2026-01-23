@@ -1,9 +1,8 @@
 ---
-title: "TypeScript Quick Reference Cheat Sheet"
-date: 2026-01-08 18:30:00 +0530
-categories: [Programming, TypeScript, Reference]
-tags: [typescript, cheat-sheet, quick-reference, syntax]
-pin: true
+title: "TypeScript Mastery - Supplement 1: Quick Reference Cheat Sheet"
+date: 2025-05-11 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Reference, Cheat-sheet, Quick-reference, Syntax]
 ---
 
 # TypeScript Quick Reference Cheat Sheet
