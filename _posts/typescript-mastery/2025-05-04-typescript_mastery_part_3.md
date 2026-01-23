@@ -1,8 +1,8 @@
 ---
-title: "Complete TypeScript Mastery Part 3: TypeScript Compiler & Tooling"
-date: 2026-01-08 12:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, compiler, tooling, tsconfig, build-tools, webpack, vite, performance]
+title: "TypeScript Mastery - Part 3: TypeScript Compiler & Tooling"
+date: 2025-05-04 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, JavaScript, Programming, Web Development, Compiler, Tooling, Tsconfig, Build-tools, Webpack, Vite, Performance]
 ---
 
 # Complete TypeScript Mastery Part 3: TypeScript Compiler & Tooling
