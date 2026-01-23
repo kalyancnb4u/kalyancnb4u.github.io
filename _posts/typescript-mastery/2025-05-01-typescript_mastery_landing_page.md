@@ -1002,19 +1002,19 @@ Throughout the series, you'll also learn:
 ## 📖 Quick Links
 
 ### **Start Learning:**
-- [Part 1: Fundamentals](./typescript-mastery-part-1)
-- [8-Week Study Schedule](./typescript-study-schedule)
-- [Quick Reference Cheat Sheet](./typescript-cheat-sheet)
+- [Part 1: Fundamentals](#)
+- [8-Week Study Schedule](#)
+- [Quick Reference Cheat Sheet](#)
 
 ### **Resources:**
-- [10 Project Ideas](./typescript-project-ideas)
-- [Resource Compilation](./typescript-resources)
-- [Progress Tracker](./typescript-progress-tracker)
+- [10 Project Ideas](#)
+- [Resource Compilation](#)
+- [Progress Tracker](#)
 
 ### **Practice:**
-- [30-Day Coding Challenge](./typescript-30-day-challenge)
-- [120 Interview Flashcards](./typescript-flashcards)
-- [Study Notes Templates](./typescript-study-notes)
+- [30-Day Coding Challenge](#)
+- [120 Interview Flashcards](#)
+- [Study Notes Templates](#)
 
 ---
 
