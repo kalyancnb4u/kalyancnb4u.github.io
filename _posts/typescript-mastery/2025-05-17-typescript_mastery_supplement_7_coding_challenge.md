@@ -1,8 +1,8 @@
 ---
-title: "30-Day TypeScript Coding Challenge"
-date: 2026-01-08 21:00:00 +0530
-categories: [Programming, TypeScript, Challenges]
-tags: [typescript, coding-challenge, daily-practice, exercises]
+title: "TypeScript Mastery - Supplement 7: 30-Day TypeScript Coding Challenge"
+date: 2025-05-17 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Challenges, Coding-challenge, Daily-practice, Exercises]
 ---
 
 # 30-Day TypeScript Coding Challenge
