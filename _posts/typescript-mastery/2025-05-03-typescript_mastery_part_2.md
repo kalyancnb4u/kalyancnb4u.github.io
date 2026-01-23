@@ -1,8 +1,8 @@
 ---
-title: "Complete TypeScript Mastery Part 2: Advanced Type System & Generics"
-date: 2026-01-08 11:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, generics, advanced-types, conditional-types, mapped-types, type-system, utility-types]
+title: "TypeScript Mastery - Part 2: Advanced Type System & Generics"
+date: 2025-05-03 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, JavaScript, Programming, Generics, Advanced-types, Conditional-types, Mapped-types, Type-system, Utility-types]
 ---
 
 # Complete TypeScript Mastery Part 2: Advanced Type System & Generics
