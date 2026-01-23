@@ -1,8 +1,8 @@
 ---
-title: "200 TypeScript Interview Flashcards"
-date: 2026-01-08 20:00:00 +0530
-categories: [Programming, TypeScript, Interview Prep]
-tags: [typescript, interview, flashcards, questions]
+title: "TypeScript Mastery - Supplement 5: 200 TypeScript Interview Flashcards"
+date: 2025-05-15 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Resources, Interview, Flashcards, Questions]
 ---
 
 # 200 TypeScript Interview Flashcards
