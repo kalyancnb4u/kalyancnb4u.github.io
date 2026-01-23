@@ -1,8 +1,8 @@
 ---
-title: "Complete TypeScript Mastery Part 1: Fundamentals & Type System Basics"
-date: 2026-01-08 10:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, javascript, type-system, fundamentals, programming, web-development, static-typing]
+title: "TypeScript Mastery - Part 1: Fundamentals & Type System Basics"
+date: 2025-05-02 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, JavaScript, Programming, Web Development, Type-system, Fundamentals, Static-typing]
 ---
 
 # Complete TypeScript Mastery Part 1: Fundamentals & Type System Basics
