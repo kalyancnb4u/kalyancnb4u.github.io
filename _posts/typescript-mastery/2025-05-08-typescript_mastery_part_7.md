@@ -1,8 +1,8 @@
 ---
-title: "Complete TypeScript Mastery Part 7: Real-World Applications & Advanced Scenarios"
-date: 2026-01-08 16:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, microservices, websockets, cli, monorepo, real-time, production, advanced]
+title: "TypeScript Mastery - Part 7: Real-World Applications & Advanced Scenarios"
+date: 2025-05-08 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Web Development, Micro-services, Web-sockets, CLI, Monorepo, Real-time, Production, Advanced]
 ---
 
 # Complete TypeScript Mastery Part 7: Real-World Applications & Advanced Scenarios
