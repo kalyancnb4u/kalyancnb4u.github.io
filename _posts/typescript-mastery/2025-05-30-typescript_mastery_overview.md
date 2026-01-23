@@ -1,12 +1,12 @@
 ---
-title: "Complete TypeScript Mastery Series - Introduction & Overview"
-date: 2026-01-08 18:00:00 +0530
-categories: [Programming, TypeScript, Web Development]
-tags: [typescript, series-overview, learning-path, complete-guide]
-pin: true
+title: "TypeScript Mastery Series... Intro & Overview"
+date: 2025-05-30 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Web Development, Series-overview, Learning-path, Complete-guide]
 ---
 
 # Complete TypeScript Mastery Series
+
 ## The Definitive Guide from Fundamentals to Production
 
 ---
