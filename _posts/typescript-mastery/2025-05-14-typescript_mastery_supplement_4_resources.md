@@ -1,8 +1,8 @@
 ---
-title: "TypeScript Resource Compilation"
-date: 2026-01-08 19:30:00 +0530
-categories: [Programming, TypeScript, Resources]
-tags: [typescript, learning-resources, tools, documentation]
+title: "TypeScript Mastery - Supplement 4: TypeScript Resource Compilation"
+date: 2025-05-14 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Resources, Learning, Tools, Documentation]
 ---
 
 # TypeScript Resource Compilation
