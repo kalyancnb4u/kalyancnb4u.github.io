@@ -1,8 +1,8 @@
 ---
-title: "10 TypeScript Practice Projects with Requirements"
-date: 2026-01-08 19:00:00 +0530
-categories: [Programming, TypeScript, Projects]
-tags: [typescript, projects, practice, portfolio]
+title: "TypeScript Mastery - Supplement 3: 10 TypeScript Practice Projects with Requirements"
+date: 2025-05-13 00:00:00 +0530
+categories: [TypeScript, TS Mastery]
+tags: [TypeScript, Programming, Reference, Projects, Practice, Portfolio]
 ---
 
 # 10 TypeScript Practice Projects
