@@ -1,5 +1,5 @@
 ---
-title: "Python Supplement - Part 3: 10 Project Ideas"
+title: "Python Mastery - Supplement 3: 10 Project Ideas"
 date: 2024-12-23 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Projects, Practice, Portfolio, Hands-on]
