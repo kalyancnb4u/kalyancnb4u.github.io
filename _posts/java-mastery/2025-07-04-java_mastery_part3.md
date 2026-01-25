@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 3: Advanced Java Features & Modern Java"
-date: 2024-01-17 10:00:00 +0000
-categories: [Java, Advanced-Features, Modern-Java]
-tags: [java, concurrency, virtual-threads, streams, lambda, functional-programming, java8-21, pattern-matching]
+title: "Java Mastery - Part 3: Advanced Java Features & Modern Java"
+date: 2025-07-04 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Advanced-Features, Modern-Java, Concurrency, Virtual-threads, Streams, Lambda, Functional-programming, Java8-21, Pattern-matching]
 ---
 
 ## Introduction
