@@ -1,9 +1,8 @@
 ---
-title: "Java Mastery Quick Reference Cheat Sheet"
-date: 2024-01-27 10:00:00 +0000
-categories: [Java, Reference, Cheat-Sheet]
-tags: [java, cheat-sheet, quick-reference, syntax, patterns, commands]
-pin: true
+title: "Java Mastery - Supplement 1: Quick Reference Cheat Sheet"
+date: 2025-07-15 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Reference, Cheat-Sheet, Quick-reference, Syntax, Patterns, Commands]
 ---
 
 # 🚀 Complete Java Mastery - Quick Reference Cheat Sheet
