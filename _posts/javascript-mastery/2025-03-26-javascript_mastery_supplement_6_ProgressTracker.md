@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Mastery - Progress Tracker"
-date: 2024-01-20 15:00:00 +0000
-categories: [JavaScript, Learning, Tracking]
-tags: [javascript, progress, tracker, checklist, goals]
+title: "JavaScript Mastery - Supplement 6: Progress Tracker"
+date: 2025-03-26 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Learning, Tracker, Progress, Check-list, Goals]
 ---
 
 # JavaScript Mastery - Progress Tracker
