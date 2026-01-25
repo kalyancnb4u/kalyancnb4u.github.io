@@ -1,5 +1,5 @@
 ---
-title: "Python Supplement - Part 5: Interview Flashcards"
+title: "Python Mastery - Supplement 5: Interview Flashcards"
 date: 2024-12-25 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Interview, Flashcards, Review, Questions]
