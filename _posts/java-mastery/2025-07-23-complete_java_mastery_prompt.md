@@ -1,3 +1,10 @@
+---
+title: "Java Mastery - Master Prompt: CO-STAR-A Prompt"
+date: 2025-07-23 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags:  [Java, Programming, Master Prompt]
+---
+
 # CO-STAR-A Prompt: Complete Java Mastery Guide (OpenJDK - Comprehensive & Production-Ready)
 
 ---
