@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 6: Microservices Architecture"
-date: 2024-01-20 10:00:00 +0000
-categories: [Java, Microservices, Distributed-Systems]
-tags: [java, microservices, spring-cloud, service-discovery, api-gateway, circuit-breaker, event-driven, distributed-systems]
+title: "Java Mastery - Part 6: Microservices Architecture"
+date: 2025-07-07 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Distributed-Systems, Micro-services, Spring-cloud, Service-discovery, API-gateway, Circuit-breaker, Event-driven]
 ---
 
 ## Introduction
