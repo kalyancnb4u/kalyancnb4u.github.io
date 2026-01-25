@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 8: Cloud-Native Java"
-date: 2024-01-22 10:00:00 +0000
-categories: [Java, Cloud-Native, Kubernetes]
-tags: [java, docker, kubernetes, cloud-native, serverless, aws, gcp, azure, helm, service-mesh, graalvm]
+title: "Java Mastery - Part 8: Cloud-Native Java"
+date: 2025-07-09 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Cloud-Native, Kubernetes, Docker, Serverless, AWS, GCP, Azure, Helm, Service-mesh, GraalVM]
 ---
 
 ## Introduction
