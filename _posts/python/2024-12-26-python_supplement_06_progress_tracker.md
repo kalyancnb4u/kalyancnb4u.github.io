@@ -1,5 +1,5 @@
 ---
-title: "Python Supplement - Part 6: Progress Tracker"
+title: "Python Mastery - Supplement 6: Progress Tracker"
 date: 2024-12-26 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Progress, Tracking, Goals, Metrics]
