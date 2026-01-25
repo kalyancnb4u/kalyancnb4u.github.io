@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Mastery - 8-Week Study Schedule"
-date: 2024-01-20 11:00:00 +0000
-categories: [JavaScript, Learning, Study Plan]
-tags: [javascript, study-schedule, learning-path, bootcamp, roadmap]
+title: "JavaScript Mastery - Supplement 2: 8-Week Study Schedule"
+date: 2025-03-22 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Study Plan, Schedule, Learning-path, Bootcamp, Roadmap]
 ---
 
 # JavaScript Mastery - 8-Week Study Schedule
