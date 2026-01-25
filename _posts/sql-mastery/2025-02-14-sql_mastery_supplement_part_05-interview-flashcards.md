@@ -1,5 +1,5 @@
 ---
-title: "SQL Supplement - Part 5: SQL Interview Flashcards - 200 Questions"
+title: "SQL Mastery - Supplement 5: SQL Interview Flashcards - 200 Questions"
 date: 2024-02-14 00:00:00 +0530
 categories: [SQL, SQL Mastery]
 tags: [SQL, Database, Interview, Flash-cards, Study, Review]
