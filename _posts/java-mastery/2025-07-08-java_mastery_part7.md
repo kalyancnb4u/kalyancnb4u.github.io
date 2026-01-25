@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 7: Advanced Spring & Reactive Programming"
-date: 2024-01-21 10:00:00 +0000
-categories: [Java, Spring, Reactive-Programming]
-tags: [java, spring-webflux, project-reactor, reactive-streams, spring-batch, spring-integration, reactive-programming, non-blocking]
+title: "Java Mastery - Part 7: Advanced Spring & Reactive Programming"
+date: 2025-07-08 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Spring, Reactive-Programming, Spring-webflux, Project-reactor, Reactive-streams, Spring-batch, Spring-integration, Reactive-programming, Non-blocking]
 ---
 
 ## Introduction
