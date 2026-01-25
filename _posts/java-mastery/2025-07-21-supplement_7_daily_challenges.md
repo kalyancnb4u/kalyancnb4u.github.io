@@ -1,9 +1,8 @@
 ---
-title: "Java Mastery 30-Day Coding Challenge"
-date: 2024-01-27 16:00:00 +0000
-categories: [Java, Practice, Challenges]
-tags: [java, coding-challenge, practice, daily, exercises]
-pin: true
+title: "Java Mastery - Supplement 7: 30-Day Coding Challenge"
+date: 2025-07-21 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags:  [Java, Practice, Coding, Challenges, Daily, Exercises]
 ---
 
 # 🎯 Java Mastery - 30-Day Coding Challenge
