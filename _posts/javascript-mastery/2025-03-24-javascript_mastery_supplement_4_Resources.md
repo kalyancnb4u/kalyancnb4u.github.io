@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Mastery - Resource Compilation"
-date: 2024-01-20 13:00:00 +0000
-categories: [JavaScript, Resources, Learning]
-tags: [javascript, resources, documentation, tutorials, tools]
+title: "JavaScript Mastery - Supplement 4: Resource Compilation"
+date: 2025-03-24 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Resources, Learning, Documentation, Tutorials, Tools]
 ---
 
 # JavaScript Mastery - Resource Compilation
