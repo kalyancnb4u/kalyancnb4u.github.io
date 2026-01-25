@@ -1,5 +1,5 @@
 ---
-title: "Python Supplement - Part 9: Expert Quick Reference"
+title: "Python Mastery - Supplement 9: Expert Quick Reference"
 date: 2024-12-29 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Reference, Expert, Cheat-sheet, Advanced]
