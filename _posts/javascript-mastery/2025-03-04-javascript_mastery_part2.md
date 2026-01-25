@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 2: Engine Internals & Runtime"
-date: 2024-01-09 10:00:00 +0000
-categories: [JavaScript, Web Development, Programming]
-tags: [javascript, v8, engine, memory, event-loop, garbage-collection, execution-context, async, modules, performance]
+title: "JavaScript Mastery - Part 2: Engine Internals & Runtime"
+date: 2025-03-04 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, V8, Engine, Memory, Event-loop, Garbage-collection, Execution-context, Async, Modules, Performance]
 ---
 
 # Complete JavaScript Mastery Part 2: Engine Internals & Runtime
