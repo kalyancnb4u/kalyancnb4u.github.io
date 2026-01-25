@@ -1,9 +1,8 @@
 ---
-title: "Java Mastery 8-Week Study Schedule"
-date: 2024-01-27 11:00:00 +0000
-categories: [Java, Study-Plan, Learning]
-tags: [java, study-schedule, learning-path, curriculum, roadmap]
-pin: true
+title: "Java Mastery - Supplement 2: 8-Week Study Schedule"
+date: 2025-07-16 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Learning, Study-schedule, Curriculum, Roadmap]
 ---
 
 # 📅 Complete Java Mastery - 8-Week Study Schedule
