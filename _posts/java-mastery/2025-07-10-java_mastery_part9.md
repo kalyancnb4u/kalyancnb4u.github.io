@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 9: Performance & Optimization"
-date: 2024-01-23 10:00:00 +0000
-categories: [Java, Performance, Optimization]
-tags: [java, performance, jvm-tuning, profiling, benchmarking, jmh, memory-optimization, garbage-collection, optimization]
+title: "Java Mastery - Part 9: Performance & Optimization"
+date: 2025-07-10 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Performance, Optimization, JVM-tuning, Profiling, Benchmarking, JMH, Memory-optimization, Garbage-collection, Optimization]
 ---
 
 ## Introduction
