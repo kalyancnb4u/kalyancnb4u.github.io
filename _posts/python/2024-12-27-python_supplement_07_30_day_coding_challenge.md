@@ -1,5 +1,5 @@
 ---
-title: "Python Supplement - Part 7: 30-Day Coding Challenge"
+title: "Python Mastery - Supplement 7: 30-Day Coding Challenge"
 date: 2024-12-27 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Challenge, Coding, Daily, Practice]
