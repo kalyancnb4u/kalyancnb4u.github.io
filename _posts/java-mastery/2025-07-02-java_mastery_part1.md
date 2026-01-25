@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 1: Java Fundamentals & Language Basics"
-date: 2024-01-15 10:00:00 +0000
-categories: [Java, Programming, Software-Engineering]
-tags: [java, openjdk, jvm, fundamentals, oop, collections, generics, functional-programming]
+title: "Java Mastery - Part 1: Java Fundamentals & Language Basics"
+date: 2025-07-02 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, OpenJDK, JVM, Fundamentals, OOP, Collections, Generics, Functional-programming]
 ---
 
 ## Introduction
