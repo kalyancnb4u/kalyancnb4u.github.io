@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 9: Performance Optimization"
-date: 2024-01-16 10:00:00 +0000
-categories: [JavaScript, Performance, Optimization, Web Performance]
-tags: [javascript, performance, optimization, core-web-vitals, lazy-loading, code-splitting, caching]
+title: "JavaScript Mastery - Part 9: Performance Optimization"
+date: 2025-03-11 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Performance, Optimization, Web Performance, Core-web-vitals, Lazy-loading, Code-splitting, Caching]
 ---
 
 # Complete JavaScript Mastery Part 9: Performance Optimization
