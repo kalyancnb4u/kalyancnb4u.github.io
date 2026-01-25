@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 7: Modern JavaScript Development"
-date: 2024-01-14 10:00:00 +0000
-categories: [JavaScript, Development, TypeScript, Testing]
-tags: [javascript, typescript, webpack, vite, testing, jest, eslint, build-tools, development]
+title: "JavaScript Mastery - Part 7: Modern JavaScript Development"
+date: 2025-03-09 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, TypeScript, Testing, webpack, Vite, Testing, Jest, ESlint, Build-tools]
 ---
 
 # Complete JavaScript Mastery Part 7: Modern JavaScript Development
