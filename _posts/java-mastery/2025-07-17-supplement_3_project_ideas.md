@@ -1,9 +1,8 @@
 ---
-title: "Java Mastery - 10 Practice Project Ideas"
-date: 2024-01-27 12:00:00 +0000
-categories: [Java, Projects, Practice]
-tags: [java, projects, portfolio, practice, hands-on]
-pin: true
+title: "Java Mastery - Supplement 3: 10 Practice Project Ideas"
+date: 2025-07-17 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Projects, Practice, Portfolio, Hands-on]
 ---
 
 # 🏗️ Complete Java Mastery - 10 Practice Project Ideas
