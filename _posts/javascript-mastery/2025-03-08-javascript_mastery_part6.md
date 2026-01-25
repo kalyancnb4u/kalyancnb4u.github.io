@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 6: Node.js and Server-Side JavaScript"
-date: 2024-01-13 10:00:00 +0000
-categories: [JavaScript, Node.js, Backend, Server]
-tags: [javascript, nodejs, express, backend, api, database, authentication, npm, server-side]
+title: "JavaScript Mastery - Part 6: Node.js and Server-Side JavaScript"
+date: 2025-03-08 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Node.js, Backend, Server, Express, API, Database, Authentication, npm, Server-side]
 ---
 
 # Complete JavaScript Mastery Part 6: Node.js and Server-Side JavaScript
