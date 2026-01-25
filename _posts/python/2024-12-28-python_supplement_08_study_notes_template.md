@@ -1,5 +1,5 @@
 ---
-title: "Python Supplement - Part 8: Study Notes Template"
+title: "Python Mastery - Supplement 8: Study Notes Template"
 date: 2024-12-28 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Study, Notes, Template, Learning]
