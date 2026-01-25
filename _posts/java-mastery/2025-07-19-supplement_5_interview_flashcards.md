@@ -1,9 +1,8 @@
 ---
-title: "Java Mastery Interview Flashcards - 200 Questions"
-date: 2024-01-27 14:00:00 +0000
-categories: [Java, Interview, Flashcards]
-tags: [java, interview, questions, flashcards, preparation]
-pin: true
+title: "Java Mastery - Supplement 5: Interview Flashcards - 200 Questions"
+date: 2025-07-19 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags:  [Java, Java, Interview, Flashcards, Questions, Preparation]
 ---
 
 # 🎴 Java Mastery Interview Flashcards - 200 Essential Questions
