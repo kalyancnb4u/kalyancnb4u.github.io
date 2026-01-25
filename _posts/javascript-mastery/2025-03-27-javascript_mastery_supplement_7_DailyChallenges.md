@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Mastery - 30-Day Coding Challenges"
-date: 2024-01-20 16:00:00 +0000
-categories: [JavaScript, Practice, Challenges]
-tags: [javascript, coding-challenges, daily-practice, algorithms]
+title: "JavaScript Mastery - Supplement 7: 30-Day Coding Challenges"
+date: 2025-03-27 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Practice, Challenges, Coding, Daily-practice, Algorithms]
 ---
 
 # JavaScript Mastery - 30-Day Coding Challenge
