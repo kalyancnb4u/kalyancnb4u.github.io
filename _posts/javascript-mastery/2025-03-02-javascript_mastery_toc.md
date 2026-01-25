@@ -1,3 +1,10 @@
+---
+title: "JavaScript Mastery - TOC: Table of Contents"
+date: 2025-03-02 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, TOC, Contents]
+---
+
 # Complete JavaScript Mastery Series - Detailed Table of Contents
 
 ## Overview
