@@ -2,7 +2,7 @@
 title: "Java Mastery - Part 5: Spring Framework Ecosystem"
 date: 2025-07-06 00:00:00 +0530
 categories: [Java, Java Mastery]
-tags: [Java, Programming, , Spring, Spring-Boot, Spring-data, Spring-security, REST-API, Dependency-injection, Micro-services]
+tags: [Java, Programming, Spring, Spring-Boot, Spring-data, Spring-security, REST-API, Dependency-injection, Micro-services]
 ---
 
 ## Introduction
