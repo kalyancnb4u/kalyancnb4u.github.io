@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 12: Design Patterns & Best Practices"
-date: 2024-01-26 10:00:00 +0000
-categories: [Java, Design-Patterns, Architecture]
-tags: [java, design-patterns, gof, enterprise-patterns, ddd, solid, anti-patterns, best-practices, architecture]
+title: "Java Mastery - Part 12: Design Patterns & Best Practices"
+date: 2025-07-13 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Design-Patterns, Architecture, GoF, Enterprise-patterns, DDD, SOLID, Anti-patterns, Best-practices, Architecture]
 ---
 
 ## Introduction
