@@ -1,9 +1,8 @@
 ---
-title: "Java Mastery Progress Tracker"
-date: 2024-01-27 15:00:00 +0000
-categories: [Java, Tracking, Progress]
-tags: [java, progress, tracking, checklist, goals]
-pin: true
+title: "Java Mastery - Supplement 6: Progress Tracker"
+date: 2025-07-20 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags:  [Java, Tracking, Progress, Checklist, Goals]
 ---
 
 # 📊 Complete Java Mastery - Progress Tracker
