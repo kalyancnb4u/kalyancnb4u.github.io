@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 10: Security Deep Dive"
-date: 2024-01-24 10:00:00 +0000
-categories: [Java, Security, Spring-Security]
-tags: [java, security, oauth2, jwt, spring-security, owasp, encryption, authentication, authorization, secure-coding]
+title: "Java Mastery - Part 10: Security Deep Dive"
+date: 2025-07-11 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Security, Spring-Security, OAuth2, JWT, Spring-security, OWASP, Encryption, Authentication, Authorization, Secure-coding]
 ---
 
 ## Introduction
