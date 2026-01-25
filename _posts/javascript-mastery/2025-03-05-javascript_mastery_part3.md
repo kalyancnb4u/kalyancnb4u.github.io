@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 3: Advanced JavaScript Concepts"
-date: 2024-01-10 10:00:00 +0000
-categories: [JavaScript, Web Development, Programming]
-tags: [javascript, async, promises, generators, iterators, proxies, symbols, regex, advanced, patterns]
+title: "JavaScript Mastery - Part 3: Advanced JavaScript Concepts"
+date: 2025-03-05 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Async, Promises, Generators, Iterators, Proxies, Symbols, Regex, Advanced, Patterns]
 ---
 
 # Complete JavaScript Mastery Part 3: Advanced JavaScript Concepts
