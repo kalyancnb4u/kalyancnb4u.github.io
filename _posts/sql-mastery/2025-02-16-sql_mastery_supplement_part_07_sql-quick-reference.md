@@ -1,5 +1,5 @@
 ---
-title: "SQL Supplement - Part 7: SQL Quick Reference & Interview Prep"
+title: "SQL Mastery - Supplement 7: SQL Quick Reference & Interview Prep"
 date: 2024-02-16 00:00:00 +0530
 categories: [SQL, SQL Mastery]
 tags: [SQL, Database, Cheat-sheet, Interview, Quick-reference, MySQL, PostgreSQL]
