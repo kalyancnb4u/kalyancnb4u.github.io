@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 11: Security Best Practices"
-date: 2024-01-18 10:00:00 +0000
-categories: [JavaScript, Security, Web Security, Application Security]
-tags: [javascript, security, xss, csrf, authentication, encryption, owasp, api-security]
+title: "JavaScript Mastery - Part 11: Security Best Practices"
+date: 2025-03-13 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Security, Web Security, Application Security, XSS, CSRF, Authentication, Encryption, OWASP, API-security]
 ---
 
 # Complete JavaScript Mastery Part 11: Security Best Practices
