@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 10: Deployment & DevOps"
-date: 2024-01-17 10:00:00 +0000
-categories: [JavaScript, DevOps, Deployment, CI/CD]
-tags: [javascript, deployment, devops, docker, ci-cd, cloud, monitoring, kubernetes]
+title: "JavaScript Mastery - Part 10: Deployment & DevOps"
+date: 2025-03-12 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, DevOps, Deployment, CI-CD, Docker, Cloud, Monitoring, Kubernetes]
 ---
 
 # Complete JavaScript Mastery Part 10: Deployment & DevOps
