@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Mastery - Quick Reference Cheat Sheet"
-date: 2024-01-20 10:00:00 +0000
-categories: [JavaScript, Reference, Cheat Sheet]
-tags: [javascript, reference, quick-guide, cheat-sheet, syntax, patterns]
+title: "JavaScript Mastery - Supplement 1: Quick Reference Cheat Sheet"
+date: 2025-03-21 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Reference, Cheat Sheet, Quick-guide, Syntax, Patterns]
 ---
 
 # JavaScript Mastery - Quick Reference Cheat Sheet
