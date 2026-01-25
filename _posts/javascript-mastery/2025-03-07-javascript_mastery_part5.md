@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 5: Browser APIs and DOM"
-date: 2024-01-12 10:00:00 +0000
-categories: [JavaScript, Web Development, Browser]
-tags: [javascript, dom, browser-apis, events, storage, fetch, web-apis, performance]
+title: "JavaScript Mastery - Part 5: Browser APIs and DOM"
+date: 2025-03-07 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Browser, DOM, Browser-APIs, Events, Storage, Fetch, Web-APIs, Performance]
 ---
 
 # Complete JavaScript Mastery Part 5: Browser APIs and DOM
