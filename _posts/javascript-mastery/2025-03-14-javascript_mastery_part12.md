@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 12: Interview Preparation"
-date: 2024-01-19 10:00:00 +0000
-categories: [JavaScript, Interview, Career, Coding Challenges]
-tags: [javascript, interview, coding-challenges, algorithms, system-design, career]
+title: "JavaScript Mastery - Part 12: Interview Preparation"
+date: 2025-03-14 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Interview, Career, Coding Challenges, Algorithms, System-design]
 ---
 
 # Complete JavaScript Mastery Part 12: Interview Preparation
