@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Mastery - 10 Portfolio Project Ideas"
-date: 2024-01-20 12:00:00 +0000
-categories: [JavaScript, Projects, Portfolio]
-tags: [javascript, projects, portfolio, practice, building]
+title: "JavaScript Mastery - Supplement 3: 10 Portfolio Project Ideas"
+date: 2025-03-23 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Projects, Portfolio, Practice, Building]
 ---
 
 # JavaScript Mastery - 10 Portfolio Project Ideas
