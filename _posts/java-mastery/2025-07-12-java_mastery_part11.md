@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 11: Advanced Data & Persistence"
-date: 2024-01-25 10:00:00 +0000
-categories: [Java, Database, Persistence]
-tags: [java, jpa, hibernate, mongodb, cassandra, elasticsearch, flyway, liquibase, nosql, database-sharding, multi-tenancy]
+title: "Java Mastery - Part 11: Advanced Data & Persistence"
+date: 2025-07-12 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Database, Persistence, JPA, Hibernate, MongoDB, cassandra, Elastic-search, Flyway, Liquibase, NoSQL, Database-sharding, Multi-tenancy]
 ---
 
 ## Introduction
