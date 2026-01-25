@@ -1,5 +1,5 @@
 ---
-title: "Python Supplement - Part 2: 8-Week Study Schedule"
+title: "Python Mastery - Supplement 2: 8-Week Study Schedule"
 date: 2024-12-22 00:00:00 +0530
 categories: [Python, Python Mastery]
 tags: [Python, Study, Schedule, Learning, Curriculum]
