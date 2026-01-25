@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 2: JVM Internals & Memory Management"
-date: 2024-01-16 10:00:00 +0000
-categories: [Java, JVM, Performance]
-tags: [java, jvm, garbage-collection, memory-management, performance, class-loading, jit-compilation]
+title: "Java Mastery - Part 2: JVM Internals & Memory Management"
+date: 2025-07-03 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Java, JVM, Performance, Garbage-collection, Memory-management, Performance, Class-loading, JIT-compilation]
 ---
 
 ## Introduction
