@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Mastery - Interview Flashcards"
-date: 2024-01-20 14:00:00 +0000
-categories: [JavaScript, Interview, Study]
-tags: [javascript, flashcards, interview, quick-review, memorization]
+title: "JavaScript Mastery - Supplement 5: Interview Flashcards"
+date: 2025-03-25 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Interview, Study, Flashcards, Quick-review, Memorization]
 ---
 
 # JavaScript Mastery - Interview Flashcards
