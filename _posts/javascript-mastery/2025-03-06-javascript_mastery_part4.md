@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 4: Object-Oriented and Functional Programming"
-date: 2024-01-11 10:00:00 +0000
-categories: [JavaScript, Web Development, Programming]
-tags: [javascript, oop, functional-programming, design-patterns, solid, fp, immutability, reactive]
+title: "JavaScript Mastery - Part 4: Object-Oriented and Functional Programming"
+date: 2025-03-06 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, OOP, Functional-programming, Design-patterns, SOLID, FP, Immutability, Reactive]
 ---
 
 # Complete JavaScript Mastery Part 4: Object-Oriented and Functional Programming
