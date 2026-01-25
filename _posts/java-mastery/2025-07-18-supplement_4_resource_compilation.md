@@ -1,9 +1,8 @@
 ---
-title: "Java Mastery Resource Compilation"
-date: 2024-01-27 13:00:00 +0000
-categories: [Java, Resources, Learning]
-tags: [java, resources, documentation, tools, learning]
-pin: true
+title: "Java Mastery - Supplement 4: 10 Practice Project Ideas"
+date: 2025-07-18 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags:  [Java, Resources, Learning, Documentation, Tools]
 ---
 
 # 🔗 Complete Java Mastery - Resource Compilation
