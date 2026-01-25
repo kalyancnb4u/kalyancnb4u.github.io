@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 8: Frontend Frameworks"
-date: 2024-01-15 10:00:00 +0000
-categories: [JavaScript, Frontend, Frameworks, React, Vue]
-tags: [javascript, react, vue, angular, svelte, frontend, components, state-management]
+title: "JavaScript Mastery - Part 8: Frontend Frameworks"
+date: 2025-03-10 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Front-end, Components, State-management, Frameworks, React, Vue, Angular, Svelte]
 ---
 
 # Complete JavaScript Mastery Part 8: Frontend Frameworks
