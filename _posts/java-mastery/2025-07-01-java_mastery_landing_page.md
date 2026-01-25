@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Series - Landing Page & Navigation Guide"
-date: 2024-01-27 09:00:00 +0000
-categories: [Java, Series-Overview, Getting-Started]
-tags: [java, learning, roadmap, guide, navigation, overview]
+title: "🧭 Java Mastery Series..."
+date: 2025-07-01 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, Roadmap, Guide, Mastery, Learning-path, Overview]
 pin: true
 ---
 
