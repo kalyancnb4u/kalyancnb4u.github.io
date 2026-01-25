@@ -1,9 +1,8 @@
 ---
-title: "Java Mastery Study Notes Template"
-date: 2024-01-27 17:00:00 +0000
-categories: [Java, Notes, Template]
-tags: [java, study-notes, template, learning, organization]
-pin: true
+title: "Java Mastery - Supplement 8: Study Notes Template"
+date: 2025-07-22 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags:  [Java, Template, Study-notes, Learning, Organization]
 ---
 
 # 📝 Java Mastery - Study Notes Template
