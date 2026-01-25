@@ -1,4 +1,13 @@
+---
+title: "🧭 JavaScript Mastery Series..."
+date: 2025-03-01 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Roadmap, Guide, Mastery, Learning-path, Overview]
+pin: true
+---
+
 # 🚀 Complete JavaScript Mastery Series
+
 ## The Ultimate JavaScript Learning Resource
 
 ---
