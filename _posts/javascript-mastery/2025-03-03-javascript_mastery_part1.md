@@ -1,8 +1,8 @@
 ---
-title: "Complete JavaScript Mastery Part 1: Fundamentals & Core Concepts"
-date: 2024-01-08 10:00:00 +0000
-categories: [JavaScript, Web Development, Programming]
-tags: [javascript, fundamentals, es6, variables, functions, objects, arrays, types, closures]
+title: "JavaScript Mastery - Part 1: JavaScript Fundamentals & Core Concepts"
+date: 2025-03-03 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Fundamentals, ES6, Variables, Functions, Objects, Arrays, Types, Closures]
 ---
 
 # Complete JavaScript Mastery Part 1: Fundamentals & Core Concepts
