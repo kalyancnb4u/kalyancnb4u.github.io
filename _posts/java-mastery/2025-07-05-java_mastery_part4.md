@@ -1,8 +1,8 @@
 ---
-title: "Complete Java Mastery Part 4: SDLC with Java - From Requirements to Production"
-date: 2024-01-18 10:00:00 +0000
-categories: [Java, SDLC, Software-Engineering]
-tags: [java, design-patterns, testing, maven, gradle, ci-cd, deployment, spring-boot, microservices]
+title: "Java Mastery - Part 4: SDLC with Java - From Requirements to Production"
+date: 2025-07-05 00:00:00 +0530
+categories: [Java, Java Mastery]
+tags: [Java, Programming, SDLC, Software-Engineering, Design-patterns, Testing, Maven, Gradle, CI-CD, Deployment, Spring-boot, Micro-services]
 ---
 
 ## Introduction
