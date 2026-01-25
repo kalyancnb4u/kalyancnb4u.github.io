@@ -1,3 +1,10 @@
+---
+title: "JavaScript Mastery - Master Prompt: CO-STAR-A Prompt"
+date: 2025-03-29 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Master Prompt]
+---
+
 # CO-STAR-A Prompt: Complete JavaScript Mastery Guide (Enhanced & Comprehensive)
 
 ---
