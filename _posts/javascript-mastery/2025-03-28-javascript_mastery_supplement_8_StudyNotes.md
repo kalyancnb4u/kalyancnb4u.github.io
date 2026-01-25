@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Mastery - Study Notes Template"
-date: 2024-01-20 17:00:00 +0000
-categories: [JavaScript, Learning, Notes]
-tags: [javascript, study-notes, learning, documentation]
+title: "JavaScript Mastery - Supplement 8: Study Notes Template"
+date: 2025-03-28 00:00:00 +0530
+categories: [JavaScript, JavaScript Mastery]
+tags: [JavaScript, Programming, Web Development, Learning, Study-notes, Documentation]
 ---
 
 # JavaScript Mastery - Study Notes Template
